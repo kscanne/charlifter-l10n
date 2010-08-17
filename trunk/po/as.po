@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: charlifter 0.06\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2010-08-14 12:05-0500\n"
+"PO-Revision-Date: 2010-08-14 12:06-0500\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Lift Text"
+msgstr ""
+
+msgid "Lift Text for Language"
+msgstr ""
+
+msgid ""
+"Error: Your version of the language list is newer than the one on the server."
+msgstr ""
+
+msgid "Language not available"
+msgstr ""
+
+#. ada
+msgid "Dangme"
+msgstr "আডাঙমে"
+
+#. af
+msgid "Afrikaans"
+msgstr "আফ্ৰিকান্স"
+
+#. ak
+msgid "Akan"
+msgstr "আকান"
+
+#. ay
+msgid "Aymara"
+msgstr "আয়মাৰা"
+
+#. az
+msgid "Azerbaijani"
+msgstr "আজাৰ্বাইজানি"
+
+#. bas
+msgid "Basaa"
+msgstr ""
+
+#. bci
+msgid "Baoulé"
+msgstr ""
+
+#. bfa
+msgid "Bari"
+msgstr ""
+
+#. bin
+msgid "Edo"
+msgstr ""
+
+#. bm
+msgid "Bambara"
+msgstr "বাম্বাৰা"
+
+#. br
+msgid "Breton"
+msgstr "ব্ৰেটন"
+
+#. bum
+msgid "Bulu"
+msgstr ""
+
+#. byv
+msgid "Medumba"
+msgstr ""
+
+#. ca
+msgid "Catalan"
+msgstr "কেটেলান"
+
+#. ch
+msgid "Chamorro"
+msgstr "ছামোৰো"
+
+#. csb
+msgid "Kashubian"
+msgstr "কাছুবিয়ান"
+
+#. cs
+msgid "Czech"
+msgstr "ছেক্‌"
+
+#. cy
+msgid "Welsh"
+msgstr "ৱেলশ্ব"
+
+#. da
+msgid "Danish"
+msgstr "ডেনিশ্ব"
+
+#. de
+msgid "German"
+msgstr "জাৰ্মান"
+
+#. dua
+msgid "Duala"
+msgstr "ডুৱালা"
+
+#. dyo
+msgid "Jola-Fogny"
+msgstr ""
+
+#. dyu
+msgid "Jula"
+msgstr "ড্য়ুলা"
+
+#. ee
+msgid "Ewe"
+msgstr "ইৱি"
+
+#. efi
+msgid "Efik"
+msgstr "এফিক"
+
+#. eo
+msgid "Esperanto"
+msgstr "এস্পেৰান্টো"
+
+#. es
+msgid "Spanish"
+msgstr "হিস্পানীয়"
+
+#. et
+msgid "Estonian"
+msgstr "এস্টোনিয়ান"
+
+#. eu
+msgid "Basque"
+msgstr "বাস্ক"
+
+#. ff
+msgid "Fulah"
+msgstr "ফুলাহ"
+
+#. fi
+msgid "Finnish"
+msgstr "ফিনিশ্ব"
+
+#. fo
+msgid "Faroese"
+msgstr "পেইৰোইছ"
+
+#. fon
+msgid "Fon"
+msgstr "ফন"
+
+#. fr
+msgid "French"
+msgstr "ফৰাচী"
+
+#. fur
+msgid "Friulian"
+msgstr "ফ্ৰিউলিয়ান"
+
+#. fy
+msgid "Frisian"
+msgstr "ফ্ৰিচিয়ান"
+
+#. gaa
+msgid "Ga"
+msgstr "গা"
+
+#. ga
+msgid "Irish"
+msgstr "আইৰিশ্ব"
+
+#. gba
+msgid "Gbaya"
+msgstr "বায়া"
+
+#. gd
+msgid "Scottish Gaelic"
+msgstr "স্কট্চ গেলিক"
+
+#. gl
+msgid "Galician"
+msgstr "গেইলিচিয়ান"
+
+#. guw
+msgid "Gun-Gbe"
+msgstr ""
+
+#. ha
+msgid "Hausa"
+msgstr "হাউছা"
+
+#. haw
+msgid "Hawaiian"
+msgstr "হাৱাইয়ান"
+
+#. hr
+msgid "Croatian"
+msgstr "ক্ৰোয়েছিয়ান"
+
+#. hsb
+msgid "Upper Sorbian"
+msgstr "আপাৰ ছ'ৰ্বিয়ান"
+
+#. ht
+msgid "Haitian Creole"
+msgstr "হাইছিয়ান"
+
+#. hu
+msgid "Hungarian"
+msgstr "হাঙ্গেৰিয়ান"
+
+#. hz
+msgid "Herero"
+msgstr "হেৰেৰো"
+
+#. ig
+msgid "Igbo"
+msgstr "ইগ্বো"
+
+#. igl
+msgid "Igala"
+msgstr ""
+
+#. is
+msgid "Icelandic"
+msgstr "আইচলেণ্ডিক"
+
+#. it
+msgid "Italian"
+msgstr "ইটালীয়"
+
+#. kam
+msgid "Kamba"
+msgstr "কাম্বা"
+
+#. kck
+msgid "Kalanga"
+msgstr ""
+
+#. ki
+msgid "Gikuyu"
+msgstr "কিকুয়ু"
+
+#. kmb
+msgid "Kimbundu"
+msgstr "কিম্বুন্ডু"
+
+#. kqn
+msgid "Kaonde"
+msgstr ""
+
+#. ku
+msgid "Kurdish"
+msgstr "কুৰ্ডিশ্ব"
+
+#. ln
+msgid "Lingala"
+msgstr "লিঙ্গালা"
+
+#. lol
+msgid "Mongo-Nkundu"
+msgstr "মঙো"
+
+#. loz
+msgid "Lozi"
+msgstr "লজি"
+
+#. lt
+msgid "Lithuanian"
+msgstr "লিথুৱানিয়ান"
+
+#. lua
+msgid "Luba-Kasai"
+msgstr "লুবা-লুলুআ"
+
+#. lu
+msgid "Luba-Katanga"
+msgstr "লুবা-কাটাঙ্গা"
+
+#. lun
+msgid "Lunda"
+msgstr "লুণ্ডা"
+
+#. lv
+msgid "Latvian"
+msgstr "লাট্‌ভিয়ান"
+
+#. mg
+msgid "Malagasy"
+msgstr "মালাগাচি"
+
+#. mho
+msgid "Mashi"
+msgstr ""
+
+#. mi
+msgid "Maori"
+msgstr "মাঅ'ৰি"
+
+#. mos
+msgid "Mòoré"
+msgstr "মছি"
+
+#. mt
+msgid "Maltese"
+msgstr "মাল্টিছ"
+
+#. nb
+msgid "Norwegian Bokmål"
+msgstr "ম'ৰ্ৱেইয়ান ব'মål"
+
+#. nds
+msgid "Low Saxon"
+msgstr "লো' ছেক্সন"
+
+#. nl
+msgid "Dutch"
+msgstr "ডাচ"
+
+#. nn
+msgid "Norwegian Nynorsk"
+msgstr "ন'ৰ্ৱেইয়ান নিন'ৰ্স্ক"
+
+#. nso
+msgid "Northern Sotho"
+msgstr "নৰ্দাৰ্ণ ছ'থ'"
+
+#. ny
+msgid "Chichewa"
+msgstr "ছিছেৱা"
+
+#. nyk
+msgid "Nyaneka"
+msgstr ""
+
+#. pl
+msgid "Polish"
+msgstr "প'লিশ্ব"
+
+#. pt-BR
+msgid "Brazilian Portuguese"
+msgstr "ব্ৰাজিলীয় প'ৰ্টুগিছ"
+
+#. pt
+msgid "Portuguese"
+msgstr "প'ৰ্টুগিছ"
+
+#. qu
+msgid "Quechua"
+msgstr "ক্বেচুৱা"
+
+#. ro
+msgid "Romanian"
+msgstr "ৰ'মানিয়ান"
+
+#. sba
+msgid "Ngambay"
+msgstr ""
+
+#. sc
+msgid "Sardinian"
+msgstr "চাৰ্ডিনিয়ান"
+
+#. seh
+msgid "Sena"
+msgstr ""
+
+#. se
+msgid "Northern Saami"
+msgstr "নৰ্দাৰ্ণ ছামি"
+
+#. sg
+msgid "Sango"
+msgstr "ছাঙ্‌গ্ৰো"
+
+#. sk
+msgid "Slovak"
+msgstr "স্লোভাক"
+
+#. sl
+msgid "Slovenian"
+msgstr "স্লোভেনিয়ান"
+
+#. sm
+msgid "Samoan"
+msgstr "ছামোৱান"
+
+#. son
+msgid "Songhay"
+msgstr ""
+
+#. sq
+msgid "Albanian"
+msgstr "আল্বানিয়ান"
+
+#. sv
+msgid "Swedish"
+msgstr "চুইডিশ্ব"
+
+#. tet
+msgid "Tetun"
+msgstr "টেটুম"
+
+#. tiv
+msgid "Tiv"
+msgstr "টিভ"
+
+#. tk
+msgid "Turkmen"
+msgstr "টুৰ্কমেন"
+
+#. tn
+msgid "Tswana"
+msgstr "ছ্বানা"
+
+#. tr
+msgid "Turkish"
+msgstr "টুৰ্কিশ্ব"
+
+#. tum
+msgid "Tumbuka"
+msgstr "টুম্বুকা"
+
+#. umb
+msgid "Umbundu"
+msgstr "উম্বুন্দু"
+
+#. urh
+msgid "Urhobo"
+msgstr ""
+
+#. ve
+msgid "Venda"
+msgstr "ভেণ্ডা"
+
+#. vi
+msgid "Vietnamese"
+msgstr "ভইয়েটনামি"
+
+#. vmw
+msgid "Makhuwa"
+msgstr ""
+
+#. wa
+msgid "Walloon"
+msgstr "ৱালুন"
+
+#. wo
+msgid "Wolof"
+msgstr "ৱলফ"
+
+#. yao
+msgid "Yao"
+msgstr "ইয়াও"
+
+#. yo
+msgid "Yoruba"
+msgstr "য়'ৰুবা"
+
+#. zh
+msgid "Mandarin Chinese (Pinyin)"
+msgstr ""
+
+#. znd
+msgid "Zande"
+msgstr ""
