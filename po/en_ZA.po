@@ -10,202 +10,212 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#. TRANSLATORS: This is a program for adding diacritics to texts
+#. automatically, for many different languages.  For example, if 
+#. you input  "Pot sa mananc sticla si ea nu ma raneste" (Romanian),
+#. it outputs "Pot să mănânc sticlă și ea nu mă rănește".  We call
+#. this process "lifting" the original text. This string is
+#. the menu command for lifting a given text in the default language.
+#. You might translate it as "Correct Text" or "Restore Text".
 msgid "Lift Text"
-msgstr ""
+msgstr "Lift Text"
 
+#. TRANSLATORS: Menu command for lifting a text, but where you are
+#. given a choice of languages for the input text.
 msgid "Lift Text for Language"
-msgstr ""
+msgstr "Lift Text for Language"
 
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
 msgstr ""
+"Error: Your version of the language list is newer than the one on the server."
 
 msgid "Language not available"
-msgstr ""
+msgstr "Language not available"
 
 #. ada
 msgid "Dangme"
-msgstr ""
+msgstr "Dangme"
 
 #. af
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 #. ak
 msgid "Akan"
-msgstr ""
+msgstr "Akan"
 
 #. ay
 msgid "Aymara"
-msgstr ""
+msgstr "Aymara"
 
 #. az
 msgid "Azerbaijani"
-msgstr ""
+msgstr "Azerbaijani"
 
 #. bas
 msgid "Basaa"
-msgstr ""
+msgstr "Basaa"
 
 #. bci
 msgid "Baoulé"
-msgstr ""
+msgstr "Baoulé"
 
 #. bfa
 msgid "Bari"
-msgstr ""
+msgstr "Bari"
 
 #. bin
 msgid "Edo"
-msgstr ""
+msgstr "Edo"
 
 #. bm
 msgid "Bambara"
-msgstr ""
+msgstr "Bambara"
 
 #. br
 msgid "Breton"
-msgstr ""
+msgstr "Breton"
 
 #. bum
 msgid "Bulu"
-msgstr ""
+msgstr "Bulu"
 
 #. byv
 msgid "Medumba"
-msgstr ""
+msgstr "Medumba"
 
 #. ca
 msgid "Catalan"
-msgstr ""
+msgstr "Catalan"
 
 #. ch
 msgid "Chamorro"
-msgstr ""
+msgstr "Chamorro"
 
 #. csb
 msgid "Kashubian"
-msgstr ""
+msgstr "Kashubian"
 
 #. cs
 msgid "Czech"
-msgstr ""
+msgstr "Czech"
 
 #. cy
 msgid "Welsh"
-msgstr ""
+msgstr "Welsh"
 
 #. da
 msgid "Danish"
-msgstr ""
+msgstr "Danish"
 
 #. de
 msgid "German"
-msgstr ""
+msgstr "German"
 
 #. dua
 msgid "Duala"
-msgstr ""
+msgstr "Duala"
 
 #. dyo
 msgid "Jola-Fogny"
-msgstr ""
+msgstr "Jola-Fogny"
 
 #. dyu
 msgid "Jula"
-msgstr ""
+msgstr "Jula"
 
 #. ee
 msgid "Ewe"
-msgstr ""
+msgstr "Ewe"
 
 #. efi
 msgid "Efik"
-msgstr ""
+msgstr "Efik"
 
 #. eo
 msgid "Esperanto"
-msgstr ""
+msgstr "Esperanto"
 
 #. es
 msgid "Spanish"
-msgstr ""
+msgstr "Spanish"
 
 #. et
 msgid "Estonian"
-msgstr ""
+msgstr "Estonian"
 
 #. eu
 msgid "Basque"
-msgstr ""
+msgstr "Basque"
 
 #. ff
 msgid "Fulah"
-msgstr ""
+msgstr "Fulah"
 
 #. fi
 msgid "Finnish"
-msgstr ""
+msgstr "Finnish"
 
 #. fo
 msgid "Faroese"
-msgstr ""
+msgstr "Faroese"
 
 #. fon
 msgid "Fon"
-msgstr ""
+msgstr "Fon"
 
 #. fr
 msgid "French"
-msgstr ""
+msgstr "French"
 
 #. fur
 msgid "Friulian"
-msgstr ""
+msgstr "Friulian"
 
 #. fy
 msgid "Frisian"
-msgstr ""
+msgstr "Frisian"
 
 #. gaa
 msgid "Ga"
-msgstr ""
+msgstr "Ga"
 
 #. ga
 msgid "Irish"
-msgstr ""
+msgstr "Irish"
 
 #. gba
 msgid "Gbaya"
-msgstr ""
+msgstr "Gbaya"
 
 #. gd
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "Scottish Gaelic"
 
 #. gl
 msgid "Galician"
-msgstr ""
+msgstr "Galician"
 
 #. guw
 msgid "Gun-Gbe"
-msgstr ""
+msgstr "Gun-Gbe"
 
 #. ha
 msgid "Hausa"
-msgstr ""
+msgstr "Hausa"
 
 #. haw
 msgid "Hawaiian"
-msgstr ""
+msgstr "Hawaiian"
 
 #. hr
 msgid "Croatian"
-msgstr ""
+msgstr "Croatian"
 
 #. hsb
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "Upper Sorbian"
 
 #. ht
 msgid "Haitian Creole"
@@ -213,103 +223,103 @@ msgstr "Haitian"
 
 #. hu
 msgid "Hungarian"
-msgstr ""
+msgstr "Hungarian"
 
 #. hz
 msgid "Herero"
-msgstr ""
+msgstr "Herero"
 
 #. ig
 msgid "Igbo"
-msgstr ""
+msgstr "Igbo"
 
 #. igl
 msgid "Igala"
-msgstr ""
+msgstr "Igala"
 
 #. is
 msgid "Icelandic"
-msgstr ""
+msgstr "Icelandic"
 
 #. it
 msgid "Italian"
-msgstr ""
+msgstr "Italian"
 
 #. kam
 msgid "Kamba"
-msgstr ""
+msgstr "Kamba"
 
 #. kck
 msgid "Kalanga"
-msgstr ""
+msgstr "Kalanga"
 
 #. ki
 msgid "Gikuyu"
-msgstr ""
+msgstr "Gikuyu"
 
 #. kmb
 msgid "Kimbundu"
-msgstr ""
+msgstr "Kimbundu"
 
 #. kqn
 msgid "Kaonde"
-msgstr ""
+msgstr "Kaonde"
 
 #. ku
 msgid "Kurdish"
-msgstr ""
+msgstr "Kurdish"
 
 #. ln
 msgid "Lingala"
-msgstr ""
+msgstr "Lingala"
 
 #. lol
 msgid "Mongo-Nkundu"
-msgstr ""
+msgstr "Mongo-Nkundu"
 
 #. loz
 msgid "Lozi"
-msgstr ""
+msgstr "Lozi"
 
 #. lt
 msgid "Lithuanian"
-msgstr ""
+msgstr "Lithuanian"
 
 #. lua
 msgid "Luba-Kasai"
-msgstr ""
+msgstr "Luba-Kasai"
 
 #. lu
 msgid "Luba-Katanga"
-msgstr ""
+msgstr "Luba-Katanga"
 
 #. lun
 msgid "Lunda"
-msgstr ""
+msgstr "Lunda"
 
 #. lv
 msgid "Latvian"
-msgstr ""
+msgstr "Latvian"
 
 #. mg
 msgid "Malagasy"
-msgstr ""
+msgstr "Malagasy"
 
 #. mho
 msgid "Mashi"
-msgstr ""
+msgstr "Mashi"
 
 #. mi
 msgid "Maori"
-msgstr ""
+msgstr "Maori"
 
 #. mos
 msgid "Mòoré"
-msgstr ""
+msgstr "Mòoré"
 
 #. mt
 msgid "Maltese"
-msgstr ""
+msgstr "Maltese"
 
 #. nb
 msgid "Norwegian Bokmål"
@@ -317,19 +327,19 @@ msgstr "Norwegian Bokmål"
 
 #. nds
 msgid "Low Saxon"
-msgstr ""
+msgstr "Low Saxon"
 
 #. nl
 msgid "Dutch"
-msgstr ""
+msgstr "Dutch"
 
 #. nn
 msgid "Norwegian Nynorsk"
-msgstr ""
+msgstr "Norwegian Nynorsk"
 
 #. nso
 msgid "Northern Sotho"
-msgstr ""
+msgstr "Northern Sotho"
 
 #. ny
 msgid "Chichewa"
@@ -337,83 +347,83 @@ msgstr "Chichewa"
 
 #. nyk
 msgid "Nyaneka"
-msgstr ""
+msgstr "Nyaneka"
 
 #. pl
 msgid "Polish"
-msgstr ""
+msgstr "Polish"
 
 #. pt-BR
 msgid "Brazilian Portuguese"
-msgstr ""
+msgstr "Brazilian Portuguese"
 
 #. pt
 msgid "Portuguese"
-msgstr ""
+msgstr "Portuguese"
 
 #. qu
 msgid "Quechua"
-msgstr ""
+msgstr "Quechua"
 
 #. ro
 msgid "Romanian"
-msgstr ""
+msgstr "Romanian"
 
 #. sba
 msgid "Ngambay"
-msgstr ""
+msgstr "Ngambay"
 
 #. sc
 msgid "Sardinian"
-msgstr ""
+msgstr "Sardinian"
 
 #. seh
 msgid "Sena"
-msgstr ""
+msgstr "Sena"
 
 #. se
 msgid "Northern Saami"
-msgstr ""
+msgstr "Northern Saami"
 
 #. sg
 msgid "Sango"
-msgstr ""
+msgstr "Sango"
 
 #. sk
 msgid "Slovak"
-msgstr ""
+msgstr "Slovak"
 
 #. sl
 msgid "Slovenian"
-msgstr ""
+msgstr "Slovenian"
 
 #. sm
 msgid "Samoan"
-msgstr ""
+msgstr "Samoan"
 
 #. son
 msgid "Songhay"
-msgstr ""
+msgstr "Songhay"
 
 #. sq
 msgid "Albanian"
-msgstr ""
+msgstr "Albanian"
 
 #. sv
 msgid "Swedish"
-msgstr ""
+msgstr "Swedish"
 
 #. tet
 msgid "Tetun"
-msgstr ""
+msgstr "Tetun"
 
 #. tiv
 msgid "Tiv"
-msgstr ""
+msgstr "Tiv"
 
 #. tk
 msgid "Turkmen"
-msgstr ""
+msgstr "Turkmen"
 
 #. tn
 msgid "Tswana"
@@ -421,19 +431,19 @@ msgstr "Tswana"
 
 #. tr
 msgid "Turkish"
-msgstr ""
+msgstr "Turkish"
 
 #. tum
 msgid "Tumbuka"
-msgstr ""
+msgstr "Tumbuka"
 
 #. umb
 msgid "Umbundu"
-msgstr ""
+msgstr "Umbundu"
 
 #. urh
 msgid "Urhobo"
-msgstr ""
+msgstr "Urhobo"
 
 #. ve
 msgid "Venda"
@@ -441,32 +451,32 @@ msgstr "Venda"
 
 #. vi
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnamese"
 
 #. vmw
 msgid "Makhuwa"
-msgstr ""
+msgstr "Makhuwa"
 
 #. wa
 msgid "Walloon"
-msgstr ""
+msgstr "Walloon"
 
 #. wo
 msgid "Wolof"
-msgstr ""
+msgstr "Wolof"
 
 #. yao
 msgid "Yao"
-msgstr ""
+msgstr "Yao"
 
 #. yo
 msgid "Yoruba"
-msgstr ""
+msgstr "Yoruba"
 
 #. zh
 msgid "Mandarin Chinese (Pinyin)"
-msgstr ""
+msgstr "Mandarin Chinese (Pinyin)"
 
 #. znd
 msgid "Zande"
-msgstr ""
+msgstr "Zande"
