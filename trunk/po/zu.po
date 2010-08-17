@@ -9,9 +9,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#. TRANSLATORS: This is a program for adding diacritics to texts
+#. automatically, for many different languages.  For example, if 
+#. you input  "Pot sa mananc sticla si ea nu ma raneste" (Romanian),
+#. it outputs "Pot să mănânc sticlă și ea nu mă rănește".  We call
+#. this process "lifting" the original text. This string is
+#. the menu command for lifting a given text in the default language.
+#. You might translate it as "Correct Text" or "Restore Text".
 msgid "Lift Text"
 msgstr ""
 
+#. TRANSLATORS: Menu command for lifting a text, but where you are
+#. given a choice of languages for the input text.
 msgid "Lift Text for Language"
 msgstr ""
 
