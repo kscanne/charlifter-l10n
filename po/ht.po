@@ -18,12 +18,12 @@ msgstr ""
 #. the menu command for lifting a given text in the default language.
 #. You might translate it as "Correct Text" or "Restore Text".
 msgid "Lift Text"
-msgstr ""
+msgstr "Korije Tèks la"
 
 #. TRANSLATORS: Menu command for lifting a text, but where you are
 #. given a choice of languages for the input text.
 msgid "Lift Text for Language"
-msgstr ""
+msgstr "Korije tèsk la pou lang"
 
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
@@ -218,7 +218,7 @@ msgstr ""
 
 #. ht
 msgid "Haitian Creole"
-msgstr ""
+msgstr "Kreyòl Ayisyen"
 
 #. hu
 msgid "Hungarian"
