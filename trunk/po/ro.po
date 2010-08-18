@@ -34,7 +34,7 @@ msgstr ""
 
 #. ada
 msgid "Dangme"
-msgstr ""
+msgstr "Adangme"
 
 #. af
 msgid "Afrikaans"
@@ -114,7 +114,7 @@ msgstr "Germană"
 
 #. dua
 msgid "Duala"
-msgstr ""
+msgstr "Duala"
 
 #. dyo
 msgid "Jola-Fogny"
@@ -122,7 +122,7 @@ msgstr ""
 
 #. dyu
 msgid "Jula"
-msgstr ""
+msgstr "Diulă"
 
 #. ee
 msgid "Ewe"
@@ -130,7 +130,7 @@ msgstr "Ewe"
 
 #. efi
 msgid "Efik"
-msgstr ""
+msgstr "Efică"
 
 #. eo
 msgid "Esperanto"
@@ -162,7 +162,7 @@ msgstr "Feroeză"
 
 #. fon
 msgid "Fon"
-msgstr ""
+msgstr "Fon"
 
 #. fr
 msgid "French"
@@ -178,7 +178,7 @@ msgstr "Friziană"
 
 #. gaa
 msgid "Ga"
-msgstr ""
+msgstr "Ga"
 
 #. ga
 msgid "Irish"
@@ -186,7 +186,7 @@ msgstr "Irlandeză"
 
 #. gba
 msgid "Gbaya"
-msgstr ""
+msgstr "Gbaianeză"
 
 #. gd
 msgid "Scottish Gaelic"
@@ -206,7 +206,7 @@ msgstr "Hausa"
 
 #. haw
 msgid "Hawaiian"
-msgstr ""
+msgstr "Hawaiană"
 
 #. hr
 msgid "Croatian"
@@ -246,7 +246,7 @@ msgstr "Italiană"
 
 #. kam
 msgid "Kamba"
-msgstr ""
+msgstr "Kamba"
 
 #. kck
 msgid "Kalanga"
@@ -258,7 +258,7 @@ msgstr "Kikuyu"
 
 #. kmb
 msgid "Kimbundu"
-msgstr ""
+msgstr "Kimbundu"
 
 #. kqn
 msgid "Kaonde"
@@ -274,11 +274,11 @@ msgstr "Lingala"
 
 #. lol
 msgid "Mongo-Nkundu"
-msgstr ""
+msgstr "Lomongoneză"
 
 #. loz
 msgid "Lozi"
-msgstr ""
+msgstr "Lozi"
 
 #. lt
 msgid "Lithuanian"
@@ -286,7 +286,7 @@ msgstr "Lituaniană"
 
 #. lua
 msgid "Luba-Kasai"
-msgstr ""
+msgstr "Luba-Luluaneză"
 
 #. lu
 msgid "Luba-Katanga"
@@ -294,7 +294,7 @@ msgstr "Luba-Katanga"
 
 #. lun
 msgid "Lunda"
-msgstr ""
+msgstr "Lunda"
 
 #. lv
 msgid "Latvian"
@@ -314,7 +314,7 @@ msgstr "Maori"
 
 #. mos
 msgid "Mòoré"
-msgstr ""
+msgstr "Mossi"
 
 #. mt
 msgid "Maltese"
@@ -414,11 +414,11 @@ msgstr "Suedeză"
 
 #. tet
 msgid "Tetun"
-msgstr ""
+msgstr "Tetum"
 
 #. tiv
 msgid "Tiv"
-msgstr ""
+msgstr "Tiv"
 
 #. tk
 msgid "Turkmen"
@@ -434,11 +434,11 @@ msgstr "Turcă"
 
 #. tum
 msgid "Tumbuka"
-msgstr ""
+msgstr "Tumbucă"
 
 #. umb
 msgid "Umbundu"
-msgstr ""
+msgstr "Umbundu"
 
 #. urh
 msgid "Urhobo"
@@ -466,7 +466,7 @@ msgstr "Wolof"
 
 #. yao
 msgid "Yao"
-msgstr ""
+msgstr "Yao"
 
 #. yo
 msgid "Yoruba"
