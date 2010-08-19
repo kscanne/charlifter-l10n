@@ -30,8 +30,23 @@ msgid ""
 msgstr ""
 "Error: Your version of the language list is newer than the one on the server."
 
-msgid "Language not available"
-msgstr "Language not available"
+msgid "No text to lift"
+msgstr ""
+
+msgid "No target language was specified"
+msgstr ""
+
+msgid "The chosen language is not available"
+msgstr ""
+
+msgid "No feedback text was sent to the server"
+msgstr ""
+
+msgid "The language of the feedback text was not was specified"
+msgstr ""
+
+msgid "Problem saving feedback text"
+msgstr ""
 
 #. ada
 msgid "Dangme"
@@ -480,3 +495,6 @@ msgstr "Mandarin Chinese (Pinyin)"
 #. znd
 msgid "Zande"
 msgstr "Zande"
+
+#~ msgid "Language not available"
+#~ msgstr "Language not available"
