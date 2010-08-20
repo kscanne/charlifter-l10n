@@ -30,22 +30,22 @@ msgid ""
 msgstr "Erè: Vèsyon pa w de lis lang lan pi nèf ke sa ki sou sèvè a."
 
 msgid "No text to lift"
-msgstr ""
+msgstr "Pa gen tèks pou korije"
 
 msgid "No target language was specified"
-msgstr ""
+msgstr "Okenn lang sib pat espesifye"
 
 msgid "The chosen language is not available"
-msgstr ""
+msgstr "Lang chwazi a pa disponib"
 
 msgid "No feedback text was sent to the server"
-msgstr ""
+msgstr "Okenn tèks fidbak pat voye sou sèvè a"
 
 msgid "The language of the feedback text was not was specified"
-msgstr ""
+msgstr "Lang tèks fidbak la pat espesifye"
 
 msgid "Problem saving feedback text"
-msgstr ""
+msgstr "Pwoblèm nan anrejistre fidbak la"
 
 #. ada
 msgid "Dangme"
