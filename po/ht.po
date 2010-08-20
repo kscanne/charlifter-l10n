@@ -229,7 +229,7 @@ msgstr "Kowat"
 
 #. hsb
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "Wo Sorab"
 
 #. ht
 msgid "Haitian Creole"
@@ -469,7 +469,7 @@ msgstr "Vietnamyen"
 
 #. vmw
 msgid "Makhuwa"
-msgstr ""
+msgstr "Makouwa"
 
 #. wa
 msgid "Walloon"
