@@ -21,66 +21,69 @@ msgstr ""
 #. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish (es)"
 #: lift-citem-label
 msgid "Accentuate Text: %1$S (%2$S)"
-msgstr ""
+msgstr "Accentuate Text: %1$S (%2$S)"
 
 #: lift-citem-label-accesskey
 msgid "A"
-msgstr ""
+msgstr "A"
 
 #. TRANSLATORS: Menu command for lifting a text, but where you are
 #. given a choice of languages for the input text.
 #: charlifter.csubmenu.lift.label
 msgid "Accentuate Text For..."
-msgstr ""
+msgstr "Accentuate Text For..."
 
 #: charlifter.citem.cancel.label
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: charlifter.citem.cancel.accesskey
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #. TRANSLATORS: If the program restores a text incorrectly, users can correct
 #. the error, select the corrected text, and then choose this menu item
 #. to send the correction to our server.
 #: charlifter.citem.feedback.label
 msgid "Submit Selection As Feedback"
-msgstr ""
+msgstr "Submit Selection As Feedback"
 
 #: charlifter.citem.feedback.accesskey
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: errors-title
 msgid "Accentuate.us: Error"
-msgstr ""
+msgstr "Accentuate.us: Error"
 
 #: errors-malfunction
 msgid "There is a problem with your installation.  Please try again later."
-msgstr ""
+msgstr "There is a problem with your installation.  Please try again later."
 
 #: errors-communication
 msgid ""
 "The add-on was unable to connect with the server.  Please try again later."
 msgstr ""
+"The add-on was unable to connect with the server.  Please try again later."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-confirm-title
 msgid "Accentuate.us: Feedback"
-msgstr ""
+msgstr "Accentuate.us: Feedback"
 
 #: feedback-confirm
 msgid ""
 "Wait! Did you make sure to correct the text before submitting it as "
 "feedback?  You will only see this message once."
 msgstr ""
+"Wait! Did you make sure to correct the text before submitting it as "
+"feedback?  You will only see this message once."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-success-title
 msgid "Accentuate.us: Feedback Submitted"
-msgstr ""
+msgstr "Accentuate.us: Feedback Submitted"
 
 #: feedback-success
 msgid ""
@@ -88,11 +91,15 @@ msgid ""
 "learns from all text you submit as feedback, and over time this will help "
 "improve performance for your language."
 msgstr ""
+"Thank you for be being part of the Accentuate.us community.  Our program "
+"learns from all text you submit as feedback, and over time this will help "
+"improve performance for your language."
 
 #: feedback-fail
 msgid ""
 "Please resubmit the feedback once you have corrected the text. Thank you!"
 msgstr ""
+"Please resubmit the feedback once you have corrected the text. Thank you!"
 
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
@@ -100,22 +107,22 @@ msgstr ""
 "Error: Your version of the language list is newer than the one on the server."
 
 msgid "No text to lift"
-msgstr ""
+msgstr "No text to lift"
 
 msgid "No target language was specified"
-msgstr ""
+msgstr "No target language was specified"
 
 msgid "The chosen language is not available"
-msgstr ""
+msgstr "The chosen language is not available"
 
 msgid "No feedback text was sent to the server"
-msgstr ""
+msgstr "No feedback text was sent to the server"
 
 msgid "The language of the feedback text was not was specified"
-msgstr ""
+msgstr "The language of the feedback text was not was specified"
 
 msgid "Problem saving feedback text"
-msgstr ""
+msgstr "Problem saving feedback text"
 
 #. TRANSLATORS: All remaining strings are language names.
 #. ada

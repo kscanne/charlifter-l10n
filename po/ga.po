@@ -59,12 +59,14 @@ msgstr "Accentuate.us: Earráid"
 
 #: errors-malfunction
 msgid "There is a problem with your installation.  Please try again later."
-msgstr ""
+msgstr "Tharla earráid leis an mbreiseán. Bain triail eile as ar ball."
 
 #: errors-communication
 msgid ""
 "The add-on was unable to connect with the server.  Please try again later."
 msgstr ""
+"Ní raibh an breiseán in ann dul i dteagmháil leis an bhfreastalaí.  Bain "
+"triail eile as ar ball."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-confirm-title
@@ -76,6 +78,9 @@ msgid ""
 "Wait! Did you make sure to correct the text before submitting it as "
 "feedback?  You will only see this message once."
 msgstr ""
+"Fan ort go fóill!  Ba chóir duit ceartúchán a dhéanamh ar an téacs sula "
+"seolfaidh tú é mar aiseolas.  An bhfuil an téacs seo ceartaithe?  Ní "
+"fheicfidh tú an teachtaireacht seo ach uair amháin."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-success-title
@@ -88,17 +93,22 @@ msgid ""
 "learns from all text you submit as feedback, and over time this will help "
 "improve performance for your language."
 msgstr ""
+"Go raibh maith agat as páirt a ghlacadh sa chomhphobal Accentuate.us.  "
+"Foghlaimíonn ár ríomhchlár ón téacs go léir a sheolann tú chugainn mar "
+"aiseolas, agus le himeacht ama tiocfaidh feabhas ar na torthaí i do theanga."
 
 #: feedback-fail
 msgid ""
 "Please resubmit the feedback once you have corrected the text. Thank you!"
 msgstr ""
+"Athsheol an t-aiseolas nuair a bheidh an téacs ceartaithe agat. Go raibh "
+"maith agat!"
 
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
 msgstr ""
-"Earráid: Tá an leagan den liosta teangacha atá agat níos nuaí ná an leagan "
-"ar an bhfreastalaí."
+"Earráid: Tá an leagan den liosta teangacha atá agat níos nuaí ná an leagan ar "
+"an bhfreastalaí."
 
 msgid "No text to lift"
 msgstr "Níl aon téacs le hathchóiriú"
