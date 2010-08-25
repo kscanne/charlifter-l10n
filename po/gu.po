@@ -14,15 +14,84 @@ msgstr ""
 #. automatically, for many different languages.  For example, if 
 #. you input  "Pot sa mananc sticla si ea nu ma raneste" (Romanian),
 #. it outputs "Pot să mănânc sticlă și ea nu mă rănește".  We call
-#. this process "lifting" the original text. This string is
-#. the menu command for lifting a given text in the default language.
-#. You might translate it as "Correct Text" or "Restore Text".
-msgid "Lift Text"
+#. this process "accentuating" the original text (this isn't the real
+#. meaning of "accentuate" in English - it's a pun).  This string is
+#. the menu command for accentuating a given text in the default language.
+#. You might translate it as "Restore (the) Text" or "Correct (the) Text".
+#. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish (es)"
+#: lift-citem-label
+msgid "Accentuate Text: %1$S (%2$S)"
+msgstr ""
+
+#: lift-citem-label-accesskey
+msgid "A"
 msgstr ""
 
 #. TRANSLATORS: Menu command for lifting a text, but where you are
 #. given a choice of languages for the input text.
-msgid "Lift Text for Language"
+#: charlifter.csubmenu.lift.label
+msgid "Accentuate Text For..."
+msgstr ""
+
+#: charlifter.citem.cancel.label
+msgid "Cancel"
+msgstr ""
+
+#: charlifter.citem.cancel.accesskey
+msgid "C"
+msgstr ""
+
+#. TRANSLATORS: If the program restores a text incorrectly, users can correct
+#. the error, select the corrected text, and then choose this menu item
+#. to send the correction to our server.
+#: charlifter.citem.feedback.label
+msgid "Submit Selection As Feedback"
+msgstr ""
+
+#: charlifter.citem.feedback.accesskey
+msgid "F"
+msgstr ""
+
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#: errors-title
+msgid "Accentuate.us: Error"
+msgstr ""
+
+#: errors-malfunction
+msgid "There is a problem with your installation.  Please try again later."
+msgstr ""
+
+#: errors-communication
+msgid ""
+"The add-on was unable to connect with the server.  Please try again later."
+msgstr ""
+
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#: feedback-confirm-title
+msgid "Accentuate.us: Feedback"
+msgstr ""
+
+#: feedback-confirm
+msgid ""
+"Wait! Did you make sure to correct the text before submitting it as "
+"feedback?  You will only see this message once."
+msgstr ""
+
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#: feedback-success-title
+msgid "Accentuate.us: Feedback Submitted"
+msgstr ""
+
+#: feedback-success
+msgid ""
+"Thank you for be being part of the Accentuate.us community.  Our program "
+"learns from all text you submit as feedback, and over time this will help "
+"improve performance for your language."
+msgstr ""
+
+#: feedback-fail
+msgid ""
+"Please resubmit the feedback once you have corrected the text. Thank you!"
 msgstr ""
 
 msgid ""
@@ -47,6 +116,7 @@ msgstr ""
 msgid "Problem saving feedback text"
 msgstr ""
 
+#. TRANSLATORS: All remaining strings are language names.
 #. ada
 msgid "Dangme"
 msgstr "અડૉન્ગ્મે"
