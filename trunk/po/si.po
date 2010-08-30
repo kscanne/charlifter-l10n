@@ -116,6 +116,36 @@ msgstr ""
 msgid "Problem saving feedback text"
 msgstr ""
 
+msgid "Usage: sf-client.pl -r [-s SERVER] -l XX [FILES-TO-RESTORE]"
+msgstr ""
+
+msgid "or     sf-client.pl -r [-s SERVER] -l XX -i 'ASCII-TEXT'"
+msgstr ""
+
+msgid "or     sf-client.pl -f [-s SERVER] -l XX [CORRECT-FILES]"
+msgstr ""
+
+msgid "or     sf-client.pl --list (show all available languages)"
+msgstr ""
+
+msgid "or     sf-client.pl --help (display this help)"
+msgstr ""
+
+msgid "Long versions of the command-line switches are available also:"
+msgstr ""
+
+msgid "Didn't understand the response from the server"
+msgstr ""
+
+msgid "You must specify exactly one of -f or -r."
+msgstr ""
+
+msgid "You must specify a language with -l or --lang."
+msgstr ""
+
+msgid "Option --input/-i may only be used with --restore/-r."
+msgstr ""
+
 #. TRANSLATORS: All remaining strings are language names.
 #. ada
 msgid "Dangme"

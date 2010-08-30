@@ -107,8 +107,8 @@ msgstr ""
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
 msgstr ""
-"Earráid: Tá an leagan den liosta teangacha atá agat níos nuaí ná an leagan ar "
-"an bhfreastalaí."
+"Earráid: Tá an leagan den liosta teangacha atá agat níos nuaí ná an leagan "
+"ar an bhfreastalaí."
 
 msgid "No text to lift"
 msgstr "Níl aon téacs le hathchóiriú"
@@ -127,6 +127,36 @@ msgstr "Níor sonraíodh teanga an téacs aiseolais"
 
 msgid "Problem saving feedback text"
 msgstr "Tharla earráid agus téacs aiseolais á shábháil"
+
+msgid "Usage: sf-client.pl -r [-s SERVER] -l XX [FILES-TO-RESTORE]"
+msgstr "Úsáid: sf-client.pl -r [-s FREASTALAÍ] -l XX [COMHAID-LE-hATHCHÓIRIÚ]"
+
+msgid "or     sf-client.pl -r [-s SERVER] -l XX -i 'ASCII-TEXT'"
+msgstr "nó     sf-client.pl -r [-s FREASTALAÍ] -l XX -i 'TÉACS-LE-hATHCHÓIRIÚ'"
+
+msgid "or     sf-client.pl -f [-s SERVER] -l XX [CORRECT-FILES]"
+msgstr "nó     sf-client.pl -f [-s FREASTALAÍ] -l XX [COMHAID-CHEARTA]"
+
+msgid "or     sf-client.pl --list (show all available languages)"
+msgstr "nó     sf-client.pl --list (taispeáin na teangacha atá ar fáil)"
+
+msgid "or     sf-client.pl --help (display this help)"
+msgstr "nó     sf-client.pl --help (taispeáin an chabhair seo)"
+
+msgid "Long versions of the command-line switches are available also:"
+msgstr "Is féidir leaganacha fada de na roghanna ar líne na n-orduithe a úsáid freisin:"
+
+msgid "Didn't understand the response from the server"
+msgstr "Níor tuigeadh an freagra ón bhfreastalaí"
+
+msgid "You must specify exactly one of -f or -r."
+msgstr "Caithfidh tú ceann amháin de -f nó -r a roghnú."
+
+msgid "You must specify a language with -l or --lang."
+msgstr "Caithfidh tú teanga a shonrú le -l nó --lang."
+
+msgid "Option --input/-i may only be used with --restore/-r."
+msgstr "Níl --input/-i ceadaithe ach amháin in éineacht le --restore/-r."
 
 #. TRANSLATORS: All remaining strings are language names.
 #. ada
