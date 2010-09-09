@@ -118,25 +118,25 @@ msgstr "The chosen language is not available"
 msgid "No feedback text was sent to the server"
 msgstr "No feedback text was sent to the server"
 
-msgid "The language of the feedback text was not was specified"
-msgstr "The language of the feedback text was not was specified"
+msgid "The language of the feedback text was not specified"
+msgstr ""
 
 msgid "Problem saving feedback text"
 msgstr "Problem saving feedback text"
 
-msgid "Usage: sf-client.pl -r [-s SERVER] -l XX [FILES-TO-RESTORE]"
+msgid "Usage: %1$S -r -l XX [FILES-TO-RESTORE]"
 msgstr ""
 
-msgid "or     sf-client.pl -r [-s SERVER] -l XX -i 'ASCII-TEXT'"
+msgid "or     %1$S -r -l XX -i ASCII-TEXT"
 msgstr ""
 
-msgid "or     sf-client.pl -f [-s SERVER] -l XX [CORRECT-FILES]"
+msgid "or     %1$S -f -l XX [CORRECT-FILES]"
 msgstr ""
 
-msgid "or     sf-client.pl --list (show all available languages)"
+msgid "or     %1$S --list (show all available languages)"
 msgstr ""
 
-msgid "or     sf-client.pl --help (display this help)"
+msgid "or     %1$S --help (display this help)"
 msgstr ""
 
 msgid "Long versions of the command-line switches are available also:"
@@ -602,6 +602,9 @@ msgstr "Mandarin Chinese (Pinyin)"
 #. znd
 msgid "Zande"
 msgstr "Zande"
+
+#~ msgid "The language of the feedback text was not was specified"
+#~ msgstr "The language of the feedback text was not was specified"
 
 #~ msgid "Lift Text"
 #~ msgstr "Lift Text"

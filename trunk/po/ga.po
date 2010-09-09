@@ -122,29 +122,33 @@ msgstr "Níl an teanga roghnaithe ar fáil"
 msgid "No feedback text was sent to the server"
 msgstr "Níor seoladh téacs aiseolais go dtí an freastalaí"
 
-msgid "The language of the feedback text was not was specified"
+msgid "The language of the feedback text was not specified"
 msgstr "Níor sonraíodh teanga an téacs aiseolais"
 
 msgid "Problem saving feedback text"
 msgstr "Tharla earráid agus téacs aiseolais á shábháil"
 
-msgid "Usage: sf-client.pl -r [-s SERVER] -l XX [FILES-TO-RESTORE]"
-msgstr "Úsáid: sf-client.pl -r [-s FREASTALAÍ] -l XX [COMHAID-LE-hATHCHÓIRIÚ]"
+msgid "Usage: %1$S -r -l XX [FILES-TO-RESTORE]"
+msgstr ""
+"Úsáid: %1$S -r -l XX [COMHAID-LE-hATHCHÓIRIÚ]"
 
-msgid "or     sf-client.pl -r [-s SERVER] -l XX -i 'ASCII-TEXT'"
-msgstr "nó     sf-client.pl -r [-s FREASTALAÍ] -l XX -i 'TÉACS-LE-hATHCHÓIRIÚ'"
+msgid "or     %1$S -r -l XX -i ASCII-TEXT"
+msgstr ""
+"nó     %1$S -r -l XX -i 'TÉACS-LE-hATHCHÓIRIÚ'"
 
-msgid "or     sf-client.pl -f [-s SERVER] -l XX [CORRECT-FILES]"
-msgstr "nó     sf-client.pl -f [-s FREASTALAÍ] -l XX [COMHAID-CHEARTA]"
+msgid "or     %1$S -f -l XX [CORRECT-FILES]"
+msgstr "nó     %1$S -f -l XX [COMHAID-CHEARTA]"
 
-msgid "or     sf-client.pl --list (show all available languages)"
-msgstr "nó     sf-client.pl --list (taispeáin na teangacha atá ar fáil)"
+msgid "or     %1$S --list (show all available languages)"
+msgstr "nó     %1$S --list (taispeáin na teangacha atá ar fáil)"
 
-msgid "or     sf-client.pl --help (display this help)"
-msgstr "nó     sf-client.pl --help (taispeáin an chabhair seo)"
+msgid "or     %1$S --help (display this help)"
+msgstr "nó     %1$S --help (taispeáin an chabhair seo)"
 
 msgid "Long versions of the command-line switches are available also:"
-msgstr "Is féidir leaganacha fada de na roghanna ar líne na n-orduithe a úsáid freisin:"
+msgstr ""
+"Is féidir leaganacha fada de na roghanna ar líne na n-orduithe a úsáid "
+"freisin:"
 
 msgid "Didn't understand the response from the server"
 msgstr "Níor tuigeadh an freagra ón bhfreastalaí"
@@ -606,6 +610,26 @@ msgstr "Mandairínis (Pinyin)"
 #. znd
 msgid "Zande"
 msgstr "Záindéis"
+
+#~ msgid "The language of the feedback text was not was specified"
+#~ msgstr "Níor sonraíodh teanga an téacs aiseolais"
+
+#~ msgid "Usage: sf-client.pl -r [-s SERVER] -l XX [FILES-TO-RESTORE]"
+#~ msgstr ""
+#~ "Úsáid: sf-client.pl -r [-s FREASTALAÍ] -l XX [COMHAID-LE-hATHCHÓIRIÚ]"
+
+#~ msgid "or     sf-client.pl -r [-s SERVER] -l XX -i 'ASCII-TEXT'"
+#~ msgstr ""
+#~ "nó     sf-client.pl -r [-s FREASTALAÍ] -l XX -i 'TÉACS-LE-hATHCHÓIRIÚ'"
+
+#~ msgid "or     sf-client.pl -f [-s SERVER] -l XX [CORRECT-FILES]"
+#~ msgstr "nó     sf-client.pl -f [-s FREASTALAÍ] -l XX [COMHAID-CHEARTA]"
+
+#~ msgid "or     sf-client.pl --list (show all available languages)"
+#~ msgstr "nó     sf-client.pl --list (taispeáin na teangacha atá ar fáil)"
+
+#~ msgid "or     sf-client.pl --help (display this help)"
+#~ msgstr "nó     sf-client.pl --help (taispeáin an chabhair seo)"
 
 #~ msgid "Lift Text: %1$S (%2$S)"
 #~ msgstr "Athchóirigh an Téacs: %1$S (%2$S)"

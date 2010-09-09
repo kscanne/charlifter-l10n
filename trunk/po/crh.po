@@ -110,25 +110,25 @@ msgstr ""
 msgid "No feedback text was sent to the server"
 msgstr ""
 
-msgid "The language of the feedback text was not was specified"
+msgid "The language of the feedback text was not specified"
 msgstr ""
 
 msgid "Problem saving feedback text"
 msgstr ""
 
-msgid "Usage: sf-client.pl -r [-s SERVER] -l XX [FILES-TO-RESTORE]"
+msgid "Usage: %1$S -r -l XX [FILES-TO-RESTORE]"
 msgstr ""
 
-msgid "or     sf-client.pl -r [-s SERVER] -l XX -i 'ASCII-TEXT'"
+msgid "or     %1$S -r -l XX -i ASCII-TEXT"
 msgstr ""
 
-msgid "or     sf-client.pl -f [-s SERVER] -l XX [CORRECT-FILES]"
+msgid "or     %1$S -f -l XX [CORRECT-FILES]"
 msgstr ""
 
-msgid "or     sf-client.pl --list (show all available languages)"
+msgid "or     %1$S --list (show all available languages)"
 msgstr ""
 
-msgid "or     sf-client.pl --help (display this help)"
+msgid "or     %1$S --help (display this help)"
 msgstr ""
 
 msgid "Long versions of the command-line switches are available also:"
@@ -221,7 +221,7 @@ msgstr "Gal Tili"
 
 #. da
 msgid "Danish"
-msgstr "Danimarkaca; Danca"
+msgstr "Danimarkaca"
 
 #. de
 msgid "German"
@@ -305,7 +305,7 @@ msgstr "Gbaya (Sudan)"
 
 #. gd
 msgid "Scottish Gaelic"
-msgstr "Keltçe; İskoçya Keltçesi"
+msgstr "İskoçya Keltçesi"
 
 #. gl
 msgid "Galician"
@@ -369,7 +369,7 @@ msgstr ""
 
 #. ki
 msgid "Gikuyu"
-msgstr "Kikuyu; Gikuyu"
+msgstr "Gikuyu"
 
 #. kmb
 msgid "Kimbundu"
@@ -457,7 +457,7 @@ msgstr ""
 
 #. ny
 msgid "Chichewa"
-msgstr "Chichewa; Chewa; Nyanja"
+msgstr "Chichewa"
 
 #. nyk
 msgid "Nyaneka"
