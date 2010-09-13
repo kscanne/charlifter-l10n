@@ -53,6 +53,38 @@ msgid "F"
 msgstr "F"
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#: charlifter.about.menu.label
+msgid "About Accentuate.us"
+msgstr ""
+
+#. TRANSLATORS: The variable %1$S is filled in with the name of the program
+#: about-accentuateus
+msgid ""
+"This add-on is an interface to the %1$S language service that allows you to "
+"type quickly and easily in more than 100 languages without extra keystrokes "
+"or a special keyboard."
+msgstr ""
+
+#: about-privacy
+msgid "Your privacy is our top priority!"
+msgstr ""
+
+#. TRANSLATORS: The variable %1$S is filled with the add-on authors' names
+#: about-copyright
+msgid "Copyright (c) 2010 %1$S"
+msgstr ""
+
+#. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the license text
+#: about-license
+msgid "Licensed under %1$S."
+msgstr ""
+
+#. TRANSLATORS: This text will be followed by a link to a web page for contributors
+#. about-contribute
+msgid "Be part of our community:"
+msgstr ""
+
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: errors-title
 msgid "Accentuate.us: Error"
 msgstr "Accentuate.us: Error"
