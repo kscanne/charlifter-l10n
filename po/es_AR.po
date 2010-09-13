@@ -79,7 +79,7 @@ msgid "Licensed under %1$S."
 msgstr ""
 
 #. TRANSLATORS: This text will be followed by a link to a web page for contributors
-#. about-contribute
+#: about-contribute
 msgid "Be part of our community:"
 msgstr ""
 

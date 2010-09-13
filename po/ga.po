@@ -64,7 +64,9 @@ msgid ""
 "type quickly and easily in more than 100 languages without extra keystrokes "
 "or a special keyboard."
 msgstr ""
-"Is éard atá sa bhreiseán seo ná comhéadan ar sheirbhís teanga %1$S a ligeann duit clóscríobh tapa a dhéanamh i níos mó ná 100 teanga, gan eochairbhuillí sa bhreis nó méarchlár speisialta."
+"Is éard atá sa bhreiseán seo ná comhéadan ar sheirbhís teanga %1$S a ligeann "
+"duit clóscríobh tapa a dhéanamh i níos mó ná 100 teanga, gan eochairbhuillí "
+"sa bhreis nó méarchlár speisialta."
 
 #: about-privacy
 msgid "Your privacy is our top priority!"
@@ -81,7 +83,7 @@ msgid "Licensed under %1$S."
 msgstr "Ceadúnas: %1$S."
 
 #. TRANSLATORS: This text will be followed by a link to a web page for contributors
-#. about-contribute
+#: about-contribute
 msgid "Be part of our community:"
 msgstr "Glac páirt inár gcomhphobal:"
 
