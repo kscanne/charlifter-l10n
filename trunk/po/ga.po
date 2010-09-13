@@ -53,6 +53,39 @@ msgid "F"
 msgstr "S"
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#: charlifter.about.menu.label
+msgid "About Accentuate.us"
+msgstr "Maidir le hAccentuate.us"
+
+#. TRANSLATORS: The variable %1$S is filled in with the name of the program
+#: about-accentuateus
+msgid ""
+"This add-on is an interface to the %1$S language service that allows you to "
+"type quickly and easily in more than 100 languages without extra keystrokes "
+"or a special keyboard."
+msgstr ""
+"Is éard atá sa bhreiseán seo ná comhéadan ar sheirbhís teanga %1$S a ligeann duit clóscríobh tapa a dhéanamh i níos mó ná 100 teanga, gan eochairbhuillí sa bhreis nó méarchlár speisialta."
+
+#: about-privacy
+msgid "Your privacy is our top priority!"
+msgstr "Is í do phríobháideacht an chloch is mó ar ár bpaidrín!"
+
+#. TRANSLATORS: The variable %1$S is filled with the add-on authors' names
+#: about-copyright
+msgid "Copyright (c) 2010 %1$S"
+msgstr "Copyright (c) 2010 %1$S"
+
+#. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the license text
+#: about-license
+msgid "Licensed under %1$S."
+msgstr "Ceadúnas: %1$S."
+
+#. TRANSLATORS: This text will be followed by a link to a web page for contributors
+#. about-contribute
+msgid "Be part of our community:"
+msgstr "Glac páirt inár gcomhphobal:"
+
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: errors-title
 msgid "Accentuate.us: Error"
 msgstr "Accentuate.us: Earráid"
@@ -129,12 +162,10 @@ msgid "Problem saving feedback text"
 msgstr "Tharla earráid agus téacs aiseolais á shábháil"
 
 msgid "Usage: %1$S -r -l XX [FILES-TO-RESTORE]"
-msgstr ""
-"Úsáid: %1$S -r -l XX [COMHAID-LE-hATHCHÓIRIÚ]"
+msgstr "Úsáid: %1$S -r -l XX [COMHAID-LE-hATHCHÓIRIÚ]"
 
 msgid "or     %1$S -r -l XX -i ASCII-TEXT"
-msgstr ""
-"nó     %1$S -r -l XX -i 'TÉACS-LE-hATHCHÓIRIÚ'"
+msgstr "nó     %1$S -r -l XX -i 'TÉACS-LE-hATHCHÓIRIÚ'"
 
 msgid "or     %1$S -f -l XX [CORRECT-FILES]"
 msgstr "nó     %1$S -f -l XX [COMHAID-CHEARTA]"
