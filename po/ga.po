@@ -65,8 +65,8 @@ msgid ""
 "or a special keyboard."
 msgstr ""
 "Is éard atá sa bhreiseán seo ná comhéadan ar sheirbhís teanga %1$S a ligeann "
-"duit clóscríobh tapa a dhéanamh i níos mó ná 100 teanga, gan eochairbhuillí "
-"sa bhreis nó méarchlár speisialta."
+"duit clóscríobh go sciobtha i níos mó ná 100 teanga, gan eochairbhuillí "
+"breise agus gan méarchlár speisialta."
 
 #: about-privacy
 msgid "Your privacy is our top priority!"
