@@ -31,100 +31,71 @@ msgstr "K"
 #. given a choice of languages for the input text.
 #: charlifter.csubmenu.lift.label
 msgid "Accentuate Text For..."
-msgstr "Korije tèsk la pou..."
+msgstr "Korije tèks la pou..."
 
 #: charlifter.citem.cancel.label
 msgid "Cancel"
-msgstr ""
+msgstr "Anile"
 
 #: charlifter.citem.cancel.accesskey
 msgid "C"
-msgstr ""
+msgstr "A"
 
 #. TRANSLATORS: If the program restores a text incorrectly, users can correct
 #. the error, select the corrected text, and then choose this menu item
 #. to send the correction to our server.
 #: charlifter.citem.feedback.label
 msgid "Submit Selection As Feedback"
-msgstr ""
+msgstr "Soumèt seleksyon an tankou yon reyaksyon"
 
 #: charlifter.citem.feedback.accesskey
 msgid "F"
-msgstr ""
-
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
-#: charlifter.about.menu.label
-msgid "About Accentuate.us"
-msgstr ""
-
-#. TRANSLATORS: The variable %1$S is filled in with the name of the program
-#: about-accentuateus
-msgid ""
-"This add-on is an interface to the %1$S language service that allows you to "
-"type quickly and easily in more than 100 languages without extra keystrokes "
-"or a special keyboard."
-msgstr ""
-
-#: about-privacy
-msgid "Your privacy is our top priority!"
-msgstr ""
-
-#. TRANSLATORS: The variable %1$S is filled with the add-on authors' names
-#: about-copyright
-msgid "Copyright (c) 2010 %1$S"
-msgstr ""
-
-#. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the license text
-#: about-license
-msgid "Licensed under %1$S."
-msgstr ""
-
-#. TRANSLATORS: This text will be followed by a link to a web page for contributors
-#: about-contribute
-msgid "Be part of our community:"
-msgstr ""
+msgstr "R"
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: errors-title
 msgid "Accentuate.us: Error"
-msgstr ""
+msgstr "Accentuate.us: Erè"
 
 #: errors-malfunction
 msgid "There is a problem with your installation.  Please try again later."
-msgstr ""
+msgstr "Gen yon pwoblèm avèk enstalasyon ou a. Eseye ankò yon lòt lè."
 
 #: errors-communication
 msgid ""
 "The add-on was unable to connect with the server.  Please try again later."
-msgstr ""
+msgstr "Modil la pa rive konekte ak sevè a. Eseye ankò yon lòt lè."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-confirm-title
 msgid "Accentuate.us: Feedback"
-msgstr ""
+msgstr "Accentuate.us: Reyaksyon"
 
 #: feedback-confirm
 msgid ""
 "Wait! Did you make sure to correct the text before submitting it as "
 "feedback?  You will only see this message once."
-msgstr ""
+msgstr "Tann! Èske w asire w ou korije tèks la avan sou soumèt li kòm yon reyaksyon?"
+"W ap wè mesaj sa a yon sèl fwa."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-success-title
 msgid "Accentuate.us: Feedback Submitted"
-msgstr ""
+msgstr "Accentuate.us: Reyaksyon an soumèt"
 
 #: feedback-success
 msgid ""
 "Thank you for be being part of the Accentuate.us community.  Our program "
 "learns from all text you submit as feedback, and over time this will help "
 "improve performance for your language."
-msgstr ""
+msgstr "Mèsi ke w fè pati de kominote Accentuate.us la. Pwogram nou"
+"ap aprann de tout tèks ou voye kòm reyaksyon, apre yon tan sa pral ede"
+"pou amelyore pèfòmans lang ou an."
 
 #: feedback-fail
 msgid ""
 "Please resubmit the feedback once you have corrected the text. Thank you!"
-msgstr ""
+msgstr "Silvouplè soumèt reyaksyon lè ou fini korije tèks la. Mèsi!"
 
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
@@ -143,40 +114,40 @@ msgid "No feedback text was sent to the server"
 msgstr "Okenn tèks fidbak pat voye sou sèvè a"
 
 msgid "The language of the feedback text was not specified"
-msgstr ""
+msgstr "Lang tèks reyaksyon an pa chwazi"
 
 msgid "Problem saving feedback text"
 msgstr "Pwoblèm nan anrejistre fidbak la"
 
 msgid "Usage: %1$S -r -l XX [FILES-TO-RESTORE]"
-msgstr ""
+msgstr "Izaj: %1$S -r -l XX [FILES-TO-RESTORE]"
 
 msgid "or     %1$S -r -l XX -i ASCII-TEXT"
-msgstr ""
+msgstr "osinon %1$S -r -l XX -i ASCII-TEXT"
 
 msgid "or     %1$S -f -l XX [CORRECT-FILES]"
-msgstr ""
+msgstr "osinon %1$S -f -l XX [CORRECT-FILES]"
 
 msgid "or     %1$S --list (show all available languages)"
-msgstr ""
+msgstr "osinon %1$S --list (montre tout lang ki disponib yo)"
 
 msgid "or     %1$S --help (display this help)"
-msgstr ""
+msgstr "osinon %1$S --help (afiche èd la)"
 
 msgid "Long versions of the command-line switches are available also:"
-msgstr ""
+msgstr "Yon vèsyon long se switch liy kòman lan disponib tou:"
 
 msgid "Didn't understand the response from the server"
-msgstr ""
+msgstr "Pa konprann repons de sèvè a"
 
 msgid "You must specify exactly one of -f or -r."
-msgstr ""
+msgstr "Ou dwe di ekzateman youn nan -f osinon -r"
 
 msgid "You must specify a language with -l or --lang."
-msgstr ""
+msgstr "Ou dwe chwazi yon lang avèk -l osinon --lang"
 
 msgid "Option --input/-i may only be used with --restore/-r."
-msgstr ""
+msgstr "Opsyon --input/i dwe sèlman itilize avèk --restore/-r"
 
 #. TRANSLATORS: All remaining strings are language names.
 #. ada
@@ -628,7 +599,7 @@ msgid "Zande"
 msgstr "Zande"
 
 #~ msgid "The language of the feedback text was not was specified"
-#~ msgstr "Lang tèks fidbak la pat espesifye"
+#~ msgstr "Lang tèks reyaksyon la pat espesifye"
 
 #~ msgid "Lift Text: %1$S (%2$S)"
 #~ msgstr "Korije Tèks la: %1$S (%2$S)"
