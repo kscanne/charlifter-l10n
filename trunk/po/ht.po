@@ -55,7 +55,7 @@ msgstr "R"
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: charlifter.about.menu.label
 msgid "About Accentuate.us"
-msgstr ""
+msgstr "Konsènan Accentuate.us"
 
 #. TRANSLATORS: The variable %1$S is filled in with the name of the program
 #: about-accentuateus
@@ -63,26 +63,28 @@ msgid ""
 "This add-on is an interface to the %1$S language service that allows you to "
 "type quickly and easily in more than 100 languages without extra keystrokes "
 "or a special keyboard."
-msgstr ""
+msgstr "Modil sa a se yon entèfas pou %1$s sèvis lang ki pèmèt ou "
+"tape vit ak fasilite an plis ke 100 lang san plis konbinezon touch"
+"osinon yon klavye espesyal."
 
 #: about-privacy
 msgid "Your privacy is our top priority!"
-msgstr ""
+msgstr "Vi prive w se premye priyorite n!"
 
 #. TRANSLATORS: The variable %1$S is filled with the add-on authors' names
 #: about-copyright
 msgid "Copyright (c) 2010 %1$S"
-msgstr ""
+msgstr "Dwa otè (c) 2010 %1$S"
 
 #. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the license text
 #: about-license
 msgid "Licensed under %1$S."
-msgstr ""
+msgstr "Lisans sa a anba %1$S."
 
 #. TRANSLATORS: This text will be followed by a link to a web page for contributors
 #: about-contribute
 msgid "Be part of our community:"
-msgstr ""
+msgstr "Fè pati kominote a:"
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: errors-title
@@ -169,7 +171,7 @@ msgid "or     %1$S --help (display this help)"
 msgstr "osinon %1$S --help (afiche èd la)"
 
 msgid "Long versions of the command-line switches are available also:"
-msgstr "Yon vèsyon long se switch liy kòman lan disponib tou:"
+msgstr "Yon vèsyon long de switch liy kòman lan disponib tou:"
 
 msgid "Didn't understand the response from the server"
 msgstr "Pa konprann repons de sèvè a"
@@ -639,10 +641,10 @@ msgstr "Zande"
 #~ msgstr "Korije Tèks la: %1$S (%2$S)"
 
 #~ msgid "Lift Text For..."
-#~ msgstr "Korije tèsk la pou..."
+#~ msgstr "Korije tèks la pou..."
 
 #~ msgid "Lift Text"
 #~ msgstr "Korije Tèks la"
 
 #~ msgid "Lift Text for Language"
-#~ msgstr "Korije tèsk la pou lang"
+#~ msgstr "Korije tèks la pou lang"
