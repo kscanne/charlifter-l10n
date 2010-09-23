@@ -55,34 +55,31 @@ msgstr "F"
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: charlifter.about.menu.label
 msgid "About Accentuate.us"
-msgstr ""
+msgstr "About Accentuate.us"
 
 #. TRANSLATORS: The variable %1$S is filled in with the name of the program
 #: about-accentuateus
-msgid ""
-"This add-on is an interface to the %1$S language service that allows you to "
-"type quickly and easily in more than 100 languages without extra keystrokes "
-"or a special keyboard."
-msgstr ""
+msgid "This add-on is an interface to the %1$S language service that allows you to type quickly and easily in more than 100 languages without extra keystrokes or a special keyboard."
+msgstr "This add-on is an interface to the %1$S language service that allows you to type quickly and easily in more than 100 languages without extra keystrokes or a special keyboard."
 
 #: about-privacy
 msgid "Your privacy is our top priority!"
-msgstr ""
+msgstr "Your privacy is our top priority!"
 
 #. TRANSLATORS: The variable %1$S is filled with the add-on authors' names
 #: about-copyright
 msgid "Copyright (c) 2010 %1$S"
-msgstr ""
+msgstr "Copyright (c) 2010 %1$S"
 
 #. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the license text
 #: about-license
 msgid "Licensed under %1$S."
-msgstr ""
+msgstr "Licensed under %1$S."
 
 #. TRANSLATORS: This text will be followed by a link to a web page for contributors
 #: about-contribute
 msgid "Be part of our community:"
-msgstr ""
+msgstr "Be part of our community:"
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: errors-title
@@ -94,10 +91,8 @@ msgid "There is a problem with your installation.  Please try again later."
 msgstr "There is a problem with your installation.  Please try again later."
 
 #: errors-communication
-msgid ""
-"The add-on was unable to connect with the server.  Please try again later."
-msgstr ""
-"The add-on was unable to connect with the server.  Please try again later."
+msgid "The add-on was unable to connect with the server.  Please try again later."
+msgstr "The add-on was unable to connect with the server.  Please try again later."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-confirm-title
@@ -105,12 +100,8 @@ msgid "Accentuate.us: Feedback"
 msgstr "Accentuate.us: Feedback"
 
 #: feedback-confirm
-msgid ""
-"Wait! Did you make sure to correct the text before submitting it as "
-"feedback?  You will only see this message once."
-msgstr ""
-"Wait! Did you make sure to correct the text before submitting it as "
-"feedback?  You will only see this message once."
+msgid "Wait! Did you make sure to correct the text before submitting it as feedback?  You will only see this message once."
+msgstr "Wait! Did you make sure to correct the text before submitting it as feedback?  You will only see this message once."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-success-title
@@ -118,25 +109,19 @@ msgid "Accentuate.us: Feedback Submitted"
 msgstr "Accentuate.us: Feedback Submitted"
 
 #: feedback-success
-msgid ""
-"Thank you for be being part of the Accentuate.us community.  Our program "
-"learns from all text you submit as feedback, and over time this will help "
-"improve performance for your language."
-msgstr ""
-"Thank you for be being part of the Accentuate.us community.  Our program "
-"learns from all text you submit as feedback, and over time this will help "
-"improve performance for your language."
+msgid "Thank you for be being part of the Accentuate.us community.  Our program learns from all text you submit as feedback, and over time this will help improve performance for your language."
+msgstr "Thank you for be being part of the Accentuate.us community.  Our program learns from all text you submit as feedback, and over time this will help improve performance for your language."
+
+#: feedback-success-hide
+msgid "Never display this message again."
+msgstr "Never display this message again."
 
 #: feedback-fail
-msgid ""
-"Please resubmit the feedback once you have corrected the text. Thank you!"
-msgstr ""
-"Please resubmit the feedback once you have corrected the text. Thank you!"
+msgid "Please resubmit the feedback once you have corrected the text. Thank you!"
+msgstr "Please resubmit the feedback once you have corrected the text. Thank you!"
 
-msgid ""
-"Error: Your version of the language list is newer than the one on the server."
-msgstr ""
-"Error: Your version of the language list is newer than the one on the server."
+msgid "Error: Your version of the language list is newer than the one on the server."
+msgstr "Error: Your version of the language list is newer than the one on the server."
 
 msgid "No text to lift"
 msgstr "No text to lift"
@@ -151,40 +136,40 @@ msgid "No feedback text was sent to the server"
 msgstr "No feedback text was sent to the server"
 
 msgid "The language of the feedback text was not specified"
-msgstr ""
+msgstr "The language of the feedback text was not specified"
 
 msgid "Problem saving feedback text"
 msgstr "Problem saving feedback text"
 
 msgid "Usage: %1$S -r -l XX [FILES-TO-RESTORE]"
-msgstr ""
+msgstr "Usage: %1$S -r -l XX [FILES-TO-RESTORE]"
 
 msgid "or     %1$S -r -l XX -i ASCII-TEXT"
-msgstr ""
+msgstr "or     %1$S -r -l XX -i ASCII-TEXT"
 
 msgid "or     %1$S -f -l XX [CORRECT-FILES]"
-msgstr ""
+msgstr "or     %1$S -f -l XX [CORRECT-FILES]"
 
 msgid "or     %1$S --list (show all available languages)"
-msgstr ""
+msgstr "or     %1$S --list (show all available languages)"
 
 msgid "or     %1$S --help (display this help)"
-msgstr ""
+msgstr "or     %1$S --help (display this help)"
 
 msgid "Long versions of the command-line switches are available also:"
-msgstr ""
+msgstr "Long versions of the command-line switches are available also:"
 
 msgid "Didn't understand the response from the server"
-msgstr ""
+msgstr "Didn't understand the response from the server"
 
 msgid "You must specify exactly one of -f or -r."
-msgstr ""
+msgstr "You must specify exactly one of -f or -r."
 
 msgid "You must specify a language with -l or --lang."
-msgstr ""
+msgstr "You must specify a language with -l or --lang."
 
 msgid "Option --input/-i may only be used with --restore/-r."
-msgstr ""
+msgstr "Option --input/-i may only be used with --restore/-r."
 
 #. TRANSLATORS: All remaining strings are language names.
 #. ada
@@ -646,3 +631,4 @@ msgstr "Zande"
 
 #~ msgid "Language not available"
 #~ msgstr "Language not available"
+

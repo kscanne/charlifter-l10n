@@ -120,6 +120,10 @@ msgid ""
 "improve performance for your language."
 msgstr ""
 
+#: feedback-success-hide
+msgid "Never display this message again."
+msgstr ""
+
 #: feedback-fail
 msgid ""
 "Please resubmit the feedback once you have corrected the text. Thank you!"
