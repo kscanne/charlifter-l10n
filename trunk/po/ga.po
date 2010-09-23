@@ -132,6 +132,10 @@ msgstr ""
 "Foghlaimíonn ár ríomhchlár ón téacs go léir a sheolann tú chugainn mar "
 "aiseolas, agus le himeacht ama tiocfaidh feabhas ar na torthaí i do theanga."
 
+#: feedback-success-hide
+msgid "Never display this message again."
+msgstr "Ná taispeáin an teachtaireacht seo arís."
+
 #: feedback-fail
 msgid ""
 "Please resubmit the feedback once you have corrected the text. Thank you!"
