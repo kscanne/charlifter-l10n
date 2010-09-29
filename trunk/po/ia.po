@@ -1,17 +1,20 @@
+# g.sora <g.sora@tiscali.it>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: charlifter 0.06\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2010-08-14 12:05-0500\n"
-"PO-Revision-Date: 2010-08-14 12:06-0500\n"
-"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
-"Language-Team: Interlingua <kde-i18n-it@kde.org>\n"
+"PO-Revision-Date: 2010-09-29 21:51+0200\n"
+"Last-Translator: g.sora <g.sora@tiscali.it>\n"
+"Language-Team: ia_stable <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. TRANSLATORS: This is a program for adding diacritics to texts
-#. automatically, for many different languages.  For example, if 
+#. automatically, for many different languages.  For example, if
 #. you input  "Pot sa mananc sticla si ea nu ma raneste" (Romanian),
 #. it outputs "Pot să mănânc sticlă și ea nu mă rănește".  We call
 #. this process "accentuating" the original text (this isn't the real
@@ -21,41 +24,41 @@ msgstr ""
 #. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish (es)"
 #: lift-citem-label
 msgid "Accentuate Text: %1$S (%2$S)"
-msgstr ""
+msgstr "Accentuar Texto: %1$S (%2 $S)"
 
 #: lift-citem-label-accesskey
 msgid "A"
-msgstr ""
+msgstr "A"
 
 #. TRANSLATORS: Menu command for lifting a text, but where you are
 #. given a choice of languages for the input text.
 #: charlifter.csubmenu.lift.label
 msgid "Accentuate Text For..."
-msgstr ""
+msgstr "Accentuar Texto Pro..."
 
 #: charlifter.citem.cancel.label
 msgid "Cancel"
-msgstr ""
+msgstr "Cancellar"
 
 #: charlifter.citem.cancel.accesskey
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #. TRANSLATORS: If the program restores a text incorrectly, users can correct
 #. the error, select the corrected text, and then choose this menu item
 #. to send the correction to our server.
 #: charlifter.citem.feedback.label
 msgid "Submit Selection As Feedback"
-msgstr ""
+msgstr "Submitter Selection como Feedback"
 
 #: charlifter.citem.feedback.accesskey
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: charlifter.about.menu.label
 msgid "About Accentuate.us"
-msgstr ""
+msgstr "Circa Accentuate.us"
 
 #. TRANSLATORS: The variable %1$S is filled in with the name of the program
 #: about-accentuateus
@@ -64,55 +67,64 @@ msgid ""
 "type quickly and easily in more than 100 languages without extra keystrokes "
 "or a special keyboard."
 msgstr ""
+"Iste Add-on es un interfacie a le servicio de linguage %1 $S que il permitte "
+"te "
+"de typar rapidemente e facilemente in plure de 100 linguages sin extra "
+"claves "
+"o claviero special."
 
 #: about-privacy
 msgid "Your privacy is our top priority!"
-msgstr ""
+msgstr "Tu intimitate es de grande prioritate pro nos!"
 
 #. TRANSLATORS: The variable %1$S is filled with the add-on authors' names
 #: about-copyright
 msgid "Copyright (c) 2010 %1$S"
-msgstr ""
+msgstr "Copyright (c) 2010 %1$S"
 
 #. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the license text
 #: about-license
 msgid "Licensed under %1$S."
-msgstr ""
+msgstr "Licentiate secundo %1$S."
 
 #. TRANSLATORS: This text will be followed by a link to a web page for contributors
 #: about-contribute
 msgid "Be part of our community:"
-msgstr ""
+msgstr "Tu es parte de nostre commmunitate:"
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: errors-title
 msgid "Accentuate.us: Error"
-msgstr ""
+msgstr "Accentuate.us: Error"
 
 #: errors-malfunction
 msgid "There is a problem with your installation.  Please try again later."
-msgstr ""
+msgstr "Il ha un problema con tu installation. Pro favor tu prova plus tarde."
 
 #: errors-communication
 msgid ""
 "The add-on was unable to connect with the server.  Please try again later."
 msgstr ""
+"Le add-on esseva incapace a connectar con le servitor. Pro favor tu prova "
+"plus tarde. "
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-confirm-title
 msgid "Accentuate.us: Feedback"
-msgstr ""
+msgstr "Accentuate.us: Feedback"
 
 #: feedback-confirm
 msgid ""
 "Wait! Did you make sure to correct the text before submitting it as "
 "feedback?  You will only see this message once."
 msgstr ""
+"Attende! Tu esseva secur de corriger le texto ante que submitter lo "
+"como feedback? Tu videra iste message solmente un vice."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-success-title
 msgid "Accentuate.us: Feedback Submitted"
-msgstr ""
+msgstr "Accentuate.us: Feedback submittite"
 
 #: feedback-success
 msgid ""
@@ -120,72 +132,81 @@ msgid ""
 "learns from all text you submit as feedback, and over time this will help "
 "improve performance for your language."
 msgstr ""
+"Gratias pro esser parte de le communitate de Accentuate.us. Nostre programma "
+"apprende ex omne texto que tu submitte como feedback, e ,con le tempore, "
+"isto "
+"adjutara a meliorar le performance pro tu linguage."
 
 #: feedback-success-hide
 msgid "Never display this message again."
-msgstr ""
+msgstr "Numquam monstrar iste message de nove."
 
 #: feedback-fail
 msgid ""
 "Please resubmit the feedback once you have corrected the text. Thank you!"
 msgstr ""
+"Pro favor tu submitte de nove le feedback un vice que tu ha corrigite le "
+"texto. Gratias!"
 
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
 msgstr ""
+"Error: Tu version del lista de linguage es plus nove que illo su le servitor."
 
 msgid "No text to lift"
-msgstr ""
+msgstr "Necun texto de levar"
 
 msgid "No target language was specified"
-msgstr ""
+msgstr "Necun linguage objecto esseva specificate"
 
 msgid "The chosen language is not available"
-msgstr ""
+msgstr "Le linguage seligite non es disponibile"
 
 msgid "No feedback text was sent to the server"
-msgstr ""
+msgstr "Necun texto de feedback esseva inviate a le servitor"
 
 msgid "The language of the feedback text was not specified"
-msgstr ""
+msgstr "Le linguage del texto de feedback non esseva specificate"
 
 msgid "Problem saving feedback text"
-msgstr ""
+msgstr "Problema durante que on salvava texto de feedback"
 
 msgid "Usage: %1$S -r -l XX [FILES-TO-RESTORE]"
-msgstr ""
+msgstr "Uso: %1$S -r -l XX [FILES-DE-RESTABILIR]"
 
 msgid "or     %1$S -r -l XX -i ASCII-TEXT"
-msgstr ""
+msgstr "o   %1$S -r -l XX -i TEXTO-ASCII"
 
 msgid "or     %1$S -f -l XX [CORRECT-FILES]"
-msgstr ""
+msgstr "o     %1$S -f -l XX [FILES-CORRIGITE]"
 
 msgid "or     %1$S --list (show all available languages)"
-msgstr ""
+msgstr "o   %1$S --list (monstrar omne linguage disponibile)"
 
 msgid "or     %1$S --help (display this help)"
-msgstr ""
+msgstr "o    %1$S --help (monstrar iste adjuta)"
 
 msgid "Long versions of the command-line switches are available also:"
 msgstr ""
+"Versione plus longe del dispositivos de linea de commando es anque "
+"disponibile:"
 
 msgid "Didn't understand the response from the server"
-msgstr ""
+msgstr "Il non comprende le responsa ex le servitor"
 
 msgid "You must specify exactly one of -f or -r."
-msgstr ""
+msgstr "Tu debe specidicar exactemente uno de -f o -r."
 
 msgid "You must specify a language with -l or --lang."
-msgstr ""
+msgstr "Tu debe specificar un linguage con -l o --lang"
 
 msgid "Option --input/-i may only be used with --restore/-r."
-msgstr ""
+msgstr "Option --input/i pote solmente esser usate con --restore/-r."
 
 #. TRANSLATORS: All remaining strings are language names.
 #. ada
 msgid "Dangme"
-msgstr ""
+msgstr "Dangme"
 
 #. af
 msgid "Afrikaans"
@@ -193,7 +214,7 @@ msgstr "Afrikaans"
 
 #. ak
 msgid "Akan"
-msgstr ""
+msgstr "Akan"
 
 #. ay
 msgid "Aymara"
@@ -205,23 +226,23 @@ msgstr "Azerbaijano"
 
 #. bas
 msgid "Basaa"
-msgstr ""
+msgstr "Basaa"
 
 #. bci
 msgid "Baoulé"
-msgstr ""
+msgstr "Baoule"
 
 #. bfa
 msgid "Bari"
-msgstr ""
+msgstr "Bari"
 
 #. bin
 msgid "Edo"
-msgstr ""
+msgstr "Edo"
 
 #. bm
 msgid "Bambara"
-msgstr ""
+msgstr "Bambara"
 
 #. br
 msgid "Breton"
@@ -229,15 +250,15 @@ msgstr "Bretone"
 
 #. bum
 msgid "Bulu"
-msgstr ""
+msgstr "Bulu"
 
 #. byv
 msgid "Medumba"
-msgstr ""
+msgstr "Medumba"
 
 #. ca
 msgid "Catalan"
-msgstr "Catalan "
+msgstr "Catalan"
 
 #. ch
 msgid "Chamorro"
@@ -245,67 +266,67 @@ msgstr "Chamorro"
 
 #. csb
 msgid "Kashubian"
-msgstr "Kashubian "
+msgstr "Kashubian"
 
 #. cs
 msgid "Czech"
-msgstr "Tchech "
+msgstr "Tchech"
 
 #. cy
 msgid "Welsh"
-msgstr "Gallese "
+msgstr "Gallese"
 
 #. da
 msgid "Danish"
-msgstr "Danese "
+msgstr "Danese"
 
 #. de
 msgid "German"
-msgstr "Germano "
+msgstr "Germano"
 
 #. dua
 msgid "Duala"
-msgstr ""
+msgstr "Duala"
 
 #. dyo
 msgid "Jola-Fogny"
-msgstr ""
+msgstr "Jola-Fogny"
 
 #. dyu
 msgid "Jula"
-msgstr ""
+msgstr "Jula"
 
 #. ee
 msgid "Ewe"
-msgstr ""
+msgstr "Ewe"
 
 #. efi
 msgid "Efik"
-msgstr ""
+msgstr "Efik"
 
 #. eo
 msgid "Esperanto"
-msgstr "Esperanto "
+msgstr "Esperanto"
 
 #. es
 msgid "Spanish"
-msgstr "Espaniol "
+msgstr "Espaniol"
 
 #. et
 msgid "Estonian"
-msgstr "Estonian "
+msgstr "Estonian"
 
 #. eu
 msgid "Basque"
-msgstr "Basco "
+msgstr "Basco"
 
 #. ff
 msgid "Fulah"
-msgstr ""
+msgstr "Fulah"
 
 #. fi
 msgid "Finnish"
-msgstr "Finnese "
+msgstr "Finnese"
 
 #. fo
 msgid "Faroese"
@@ -313,7 +334,7 @@ msgstr "Faroese"
 
 #. fon
 msgid "Fon"
-msgstr ""
+msgstr "Fon"
 
 #. fr
 msgid "French"
@@ -321,59 +342,59 @@ msgstr "Francese"
 
 #. fur
 msgid "Friulian"
-msgstr ""
+msgstr "Friulan"
 
 #. fy
 msgid "Frisian"
-msgstr "Frisian "
+msgstr "Frisian"
 
 #. gaa
 msgid "Ga"
-msgstr ""
+msgstr "Ga"
 
 #. ga
 msgid "Irish"
-msgstr ""
+msgstr "Irlandese"
 
 #. gba
 msgid "Gbaya"
-msgstr ""
+msgstr "Gbaya"
 
 #. gd
 msgid "Scottish Gaelic"
-msgstr "Gaelic"
+msgstr "Gaelic Scotese"
 
 #. gl
 msgid "Galician"
-msgstr "Galleco "
+msgstr "Galleco"
 
 #. guw
 msgid "Gun-Gbe"
-msgstr ""
+msgstr "Gun-Gbe"
 
 #. ha
 msgid "Hausa"
-msgstr "Hausa "
+msgstr "Hausa"
 
 #. haw
 msgid "Hawaiian"
-msgstr ""
+msgstr "Hawaian"
 
 #. hr
 msgid "Croatian"
-msgstr "Croato "
+msgstr "Croato"
 
 #. hsb
 msgid "Upper Sorbian"
-msgstr "Alto Sorbiano "
+msgstr "Alto Sorbiano"
 
 #. ht
 msgid "Haitian Creole"
-msgstr ""
+msgstr "Creolo Haitiano"
 
 #. hu
 msgid "Hungarian"
-msgstr "Hungaro "
+msgstr "Hungaro"
 
 #. hz
 msgid "Herero"
@@ -381,27 +402,27 @@ msgstr "Herero"
 
 #. ig
 msgid "Igbo"
-msgstr ""
+msgstr "Igbo"
 
 #. igl
 msgid "Igala"
-msgstr ""
+msgstr "Igala"
 
 #. is
 msgid "Icelandic"
-msgstr "Islandese "
+msgstr "Islandese"
 
 #. it
 msgid "Italian"
-msgstr "Italiano "
+msgstr "Italiano"
 
 #. kam
 msgid "Kamba"
-msgstr ""
+msgstr "Kamba"
 
 #. kck
 msgid "Kalanga"
-msgstr ""
+msgstr "Kalanga"
 
 #. ki
 msgid "Gikuyu"
@@ -409,15 +430,15 @@ msgstr "Kikuyu"
 
 #. kmb
 msgid "Kimbundu"
-msgstr ""
+msgstr "Kimbundu"
 
 #. kqn
 msgid "Kaonde"
-msgstr ""
+msgstr "Kaonde"
 
 #. ku
 msgid "Kurdish"
-msgstr "Kurdo "
+msgstr "Kurdo"
 
 #. ln
 msgid "Lingala"
@@ -425,27 +446,27 @@ msgstr "Lingala"
 
 #. lol
 msgid "Mongo-Nkundu"
-msgstr ""
+msgstr "Mongo-Nkundu"
 
 #. loz
 msgid "Lozi"
-msgstr ""
+msgstr "Lozi"
 
 #. lt
 msgid "Lithuanian"
-msgstr "Lituano "
+msgstr "Lituano"
 
 #. lua
 msgid "Luba-Kasai"
-msgstr ""
+msgstr "Luba-kasai"
 
 #. lu
 msgid "Luba-Katanga"
-msgstr ""
+msgstr "Luba-Katanga"
 
 #. lun
 msgid "Lunda"
-msgstr ""
+msgstr "Lunda"
 
 #. lv
 msgid "Latvian"
@@ -457,7 +478,7 @@ msgstr "Malagasy"
 
 #. mho
 msgid "Mashi"
-msgstr ""
+msgstr "Mashi"
 
 #. mi
 msgid "Maori"
@@ -465,7 +486,7 @@ msgstr "Maori"
 
 #. mos
 msgid "Mòoré"
-msgstr ""
+msgstr "Moore"
 
 #. mt
 msgid "Maltese"
@@ -481,7 +502,7 @@ msgstr "Basso Saxone"
 
 #. nl
 msgid "Dutch"
-msgstr "Hollandese "
+msgstr "Hollandese"
 
 #. nn
 msgid "Norwegian Nynorsk"
@@ -497,11 +518,11 @@ msgstr "Chichewa"
 
 #. nyk
 msgid "Nyaneka"
-msgstr ""
+msgstr "Nyaneka"
 
 #. pl
 msgid "Polish"
-msgstr "Polonese "
+msgstr "Polonese"
 
 #. pt-BR
 msgid "Brazilian Portuguese"
@@ -521,7 +542,7 @@ msgstr "Romaniano"
 
 #. sba
 msgid "Ngambay"
-msgstr ""
+msgstr "Ngambay"
 
 #. sc
 msgid "Sardinian"
@@ -529,7 +550,7 @@ msgstr "Sardo"
 
 #. seh
 msgid "Sena"
-msgstr ""
+msgstr "Sena"
 
 #. se
 msgid "Northern Saami"
@@ -541,7 +562,7 @@ msgstr "Sango"
 
 #. sk
 msgid "Slovak"
-msgstr "Slovaco "
+msgstr "Slovaco"
 
 #. sl
 msgid "Slovenian"
@@ -553,7 +574,7 @@ msgstr "Samoano"
 
 #. son
 msgid "Songhay"
-msgstr ""
+msgstr "Songhay"
 
 #. sq
 msgid "Albanian"
@@ -565,11 +586,11 @@ msgstr "Svedo"
 
 #. tet
 msgid "Tetun"
-msgstr ""
+msgstr "Tetun"
 
 #. tiv
 msgid "Tiv"
-msgstr ""
+msgstr "Tiv"
 
 #. tk
 msgid "Turkmen"
@@ -585,15 +606,15 @@ msgstr "Turco"
 
 #. tum
 msgid "Tumbuka"
-msgstr ""
+msgstr "Tumbuka"
 
 #. umb
 msgid "Umbundu"
-msgstr ""
+msgstr "Umbundu"
 
 #. urh
 msgid "Urhobo"
-msgstr ""
+msgstr "Urhobo"
 
 #. ve
 msgid "Venda"
@@ -605,7 +626,7 @@ msgstr "Vietnamese"
 
 #. vmw
 msgid "Makhuwa"
-msgstr ""
+msgstr "Makhuwa"
 
 #. wa
 msgid "Walloon"
@@ -617,7 +638,7 @@ msgstr "Wolof"
 
 #. yao
 msgid "Yao"
-msgstr ""
+msgstr "Yao"
 
 #. yo
 msgid "Yoruba"
@@ -625,8 +646,9 @@ msgstr "Yoruba"
 
 #. zh
 msgid "Mandarin Chinese (Pinyin)"
-msgstr ""
+msgstr "Chinese Mandarin"
 
 #. znd
 msgid "Zande"
-msgstr ""
+msgstr "Zande"
+
