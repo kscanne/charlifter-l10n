@@ -24,7 +24,7 @@ msgstr ""
 #. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish (es)"
 #: lift-citem-label
 msgid "Accentuate Text: %1$S (%2$S)"
-msgstr "Accentuar Texto: %1$S (%2 $S)"
+msgstr "Accentuar Texto: %1$S (%2$S)"
 
 #: lift-citem-label-accesskey
 msgid "A"
@@ -67,7 +67,7 @@ msgid ""
 "type quickly and easily in more than 100 languages without extra keystrokes "
 "or a special keyboard."
 msgstr ""
-"Iste Add-on es un interfacie a le servicio de linguage %1 $S que il permitte "
+"Iste Add-on es un interfacie a le servicio de linguage %1$S que il permitte "
 "te "
 "de typar rapidemente e facilemente in plure de 100 linguages sin extra "
 "claves "
