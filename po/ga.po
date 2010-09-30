@@ -143,6 +143,13 @@ msgstr ""
 "Athsheol an t-aiseolas nuair a bheidh an téacs ceartaithe agat. Go raibh "
 "maith agat!"
 
+#. TRANSLATORS: This is given as an option in the list of languages, and if
+#. chosen, all special characters are removed from the text ("deaccentuation").
+#. 'ASCII' would be more precise than 'Plain Text' but we are trying to keep
+#. things non-technical.
+msgid "Plain Text"
+msgstr "Gnáth-Théacs"
+
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
 msgstr ""

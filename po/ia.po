@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. TRANSLATORS: This is a program for adding diacritics to texts
-#. automatically, for many different languages.  For example, if
+#. automatically, for many different languages.  For example, if 
 #. you input  "Pot sa mananc sticla si ea nu ma raneste" (Romanian),
 #. it outputs "Pot să mănânc sticlă și ea nu mă rănește".  We call
 #. this process "accentuating" the original text (this isn't the real
@@ -68,10 +68,8 @@ msgid ""
 "or a special keyboard."
 msgstr ""
 "Iste Add-on es un interfacie a le servicio de linguage %1$S que il permitte "
-"te "
-"de typar rapidemente e facilemente in plure de 100 linguages sin extra "
-"claves "
-"o claviero special."
+"te de typar rapidemente e facilemente in plure de 100 linguages sin extra "
+"claves o claviero special."
 
 #: about-privacy
 msgid "Your privacy is our top priority!"
@@ -118,8 +116,8 @@ msgid ""
 "Wait! Did you make sure to correct the text before submitting it as "
 "feedback?  You will only see this message once."
 msgstr ""
-"Attende! Tu esseva secur de corriger le texto ante que submitter lo "
-"como feedback? Tu videra iste message solmente un vice."
+"Attende! Tu esseva secur de corriger le texto ante que submitter lo como "
+"feedback? Tu videra iste message solmente un vice."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-success-title
@@ -134,8 +132,7 @@ msgid ""
 msgstr ""
 "Gratias pro esser parte de le communitate de Accentuate.us. Nostre programma "
 "apprende ex omne texto que tu submitte como feedback, e ,con le tempore, "
-"isto "
-"adjutara a meliorar le performance pro tu linguage."
+"isto adjutara a meliorar le performance pro tu linguage."
 
 #: feedback-success-hide
 msgid "Never display this message again."
@@ -147,6 +144,13 @@ msgid ""
 msgstr ""
 "Pro favor tu submitte de nove le feedback un vice que tu ha corrigite le "
 "texto. Gratias!"
+
+#. TRANSLATORS: This is given as an option in the list of languages, and if
+#. chosen, all special characters are removed from the text ("deaccentuation").
+#. 'ASCII' would be more precise than 'Plain Text' but we are trying to keep
+#. things non-technical.
+msgid "Plain Text"
+msgstr ""
 
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
@@ -651,4 +655,3 @@ msgstr "Chinese Mandarin"
 #. znd
 msgid "Zande"
 msgstr "Zande"
-

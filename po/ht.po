@@ -138,6 +138,13 @@ msgid ""
 "Please resubmit the feedback once you have corrected the text. Thank you!"
 msgstr "Silvouplè soumèt reyaksyon lè ou fini korije tèks la. Mèsi!"
 
+#. TRANSLATORS: This is given as an option in the list of languages, and if
+#. chosen, all special characters are removed from the text ("deaccentuation").
+#. 'ASCII' would be more precise than 'Plain Text' but we are trying to keep
+#. things non-technical.
+msgid "Plain Text"
+msgstr ""
+
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
 msgstr "Erè: Vèsyon pa w de lis lang lan pi nèf ke sa ki sou sèvè a."

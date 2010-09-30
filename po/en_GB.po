@@ -59,8 +59,14 @@ msgstr "About Accentuate.us"
 
 #. TRANSLATORS: The variable %1$S is filled in with the name of the program
 #: about-accentuateus
-msgid "This add-on is an interface to the %1$S language service that allows you to type quickly and easily in more than 100 languages without extra keystrokes or a special keyboard."
-msgstr "This add-on is an interface to the %1$S language service that allows you to type quickly and easily in more than 100 languages without extra keystrokes or a special keyboard."
+msgid ""
+"This add-on is an interface to the %1$S language service that allows you to "
+"type quickly and easily in more than 100 languages without extra keystrokes "
+"or a special keyboard."
+msgstr ""
+"This add-on is an interface to the %1$S language service that allows you to "
+"type quickly and easily in more than 100 languages without extra keystrokes "
+"or a special keyboard."
 
 #: about-privacy
 msgid "Your privacy is our top priority!"
@@ -91,8 +97,10 @@ msgid "There is a problem with your installation.  Please try again later."
 msgstr "There is a problem with your installation.  Please try again later."
 
 #: errors-communication
-msgid "The add-on was unable to connect with the server.  Please try again later."
-msgstr "The add-on was unable to connect with the server.  Please try again later."
+msgid ""
+"The add-on was unable to connect with the server.  Please try again later."
+msgstr ""
+"The add-on was unable to connect with the server.  Please try again later."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-confirm-title
@@ -100,8 +108,12 @@ msgid "Accentuate.us: Feedback"
 msgstr "Accentuate.us: Feedback"
 
 #: feedback-confirm
-msgid "Wait! Did you make sure to correct the text before submitting it as feedback?  You will only see this message once."
-msgstr "Wait! Did you make sure to correct the text before submitting it as feedback?  You will only see this message once."
+msgid ""
+"Wait! Did you make sure to correct the text before submitting it as "
+"feedback?  You will only see this message once."
+msgstr ""
+"Wait! Did you make sure to correct the text before submitting it as "
+"feedback?  You will only see this message once."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-success-title
@@ -109,19 +121,36 @@ msgid "Accentuate.us: Feedback Submitted"
 msgstr "Accentuate.us: Feedback Submitted"
 
 #: feedback-success
-msgid "Thank you for be being part of the Accentuate.us community.  Our program learns from all text you submit as feedback, and over time this will help improve performance for your language."
-msgstr "Thank you for be being part of the Accentuate.us community.  Our program learns from all text you submit as feedback, and over time this will help improve performance for your language."
+msgid ""
+"Thank you for be being part of the Accentuate.us community.  Our program "
+"learns from all text you submit as feedback, and over time this will help "
+"improve performance for your language."
+msgstr ""
+"Thank you for be being part of the Accentuate.us community.  Our program "
+"learns from all text you submit as feedback, and over time this will help "
+"improve performance for your language."
 
 #: feedback-success-hide
 msgid "Never display this message again."
 msgstr "Never display this message again."
 
 #: feedback-fail
-msgid "Please resubmit the feedback once you have corrected the text. Thank you!"
-msgstr "Please resubmit the feedback once you have corrected the text. Thank you!"
+msgid ""
+"Please resubmit the feedback once you have corrected the text. Thank you!"
+msgstr ""
+"Please resubmit the feedback once you have corrected the text. Thank you!"
 
-msgid "Error: Your version of the language list is newer than the one on the server."
-msgstr "Error: Your version of the language list is newer than the one on the server."
+#. TRANSLATORS: This is given as an option in the list of languages, and if
+#. chosen, all special characters are removed from the text ("deaccentuation").
+#. 'ASCII' would be more precise than 'Plain Text' but we are trying to keep
+#. things non-technical.
+msgid "Plain Text"
+msgstr "Plain Text"
+
+msgid ""
+"Error: Your version of the language list is newer than the one on the server."
+msgstr ""
+"Error: Your version of the language list is newer than the one on the server."
 
 msgid "No text to lift"
 msgstr "No text to lift"
@@ -631,4 +660,3 @@ msgstr "Zande"
 
 #~ msgid "Language not available"
 #~ msgstr "Language not available"
-
