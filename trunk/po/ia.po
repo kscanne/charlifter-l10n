@@ -24,7 +24,7 @@ msgstr ""
 #. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish (es)"
 #: lift-citem-label
 msgid "Accentuate Text: %1$S (%2$S)"
-msgstr "Accentuar Texto: %1$S (%2$S)"
+msgstr "Accentua Texto: %1$S (%2$S)"
 
 #: lift-citem-label-accesskey
 msgid "A"
@@ -34,11 +34,11 @@ msgstr "A"
 #. given a choice of languages for the input text.
 #: charlifter.csubmenu.lift.label
 msgid "Accentuate Text For..."
-msgstr "Accentuar Texto Pro..."
+msgstr "Accentua Texto Pro..."
 
 #: charlifter.citem.cancel.label
 msgid "Cancel"
-msgstr "Cancellar"
+msgstr "Cancella"
 
 #: charlifter.citem.cancel.accesskey
 msgid "C"
@@ -49,7 +49,7 @@ msgstr "C"
 #. to send the correction to our server.
 #: charlifter.citem.feedback.label
 msgid "Submit Selection As Feedback"
-msgstr "Submitter Selection como Feedback"
+msgstr "Submitte Selection como Feedback"
 
 #: charlifter.citem.feedback.accesskey
 msgid "F"
@@ -131,8 +131,8 @@ msgid ""
 "improve performance for your language."
 msgstr ""
 "Gratias pro esser parte de le communitate de Accentuate.us. Nostre programma "
-"apprende ex omne texto que tu submitte como feedback, e ,con le tempore, "
-"isto adjutara a meliorar le performance pro tu linguage."
+"apprende ex omne texto que tu submitte como feedback, e ,con le tempore, isto "
+"adjutara a meliorar le performance pro tu linguage."
 
 #: feedback-success-hide
 msgid "Never display this message again."
@@ -382,7 +382,7 @@ msgstr "Hausa"
 
 #. haw
 msgid "Hawaiian"
-msgstr "Hawaian"
+msgstr "Hawaiano"
 
 #. hr
 msgid "Croatian"
@@ -655,3 +655,4 @@ msgstr "Chinese Mandarin"
 #. znd
 msgid "Zande"
 msgstr "Zande"
+
