@@ -1,14 +1,21 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Kevin P. Scannell
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 msgid ""
 msgstr ""
-"Project-Id-Version: charlifter 0.06\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2010-08-14 12:05-0500\n"
-"PO-Revision-Date: 2010-08-14 12:06-0500\n"
-"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
-"Language-Team: Afrikaans <translate-discuss-af@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2010-10-04 09:13+0200\n"
+"Last-Translator: F Wolff <friedel@translate.org.za>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: af\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.1\n"
 
 #. TRANSLATORS: This is a program for adding diacritics to texts
 #. automatically, for many different languages.  For example, if 
@@ -21,41 +28,41 @@ msgstr ""
 #. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish (es)"
 #: lift-citem-label
 msgid "Accentuate Text: %1$S (%2$S)"
-msgstr ""
+msgstr "Herstel die teks: %1$S (%2$S)"
 
 #: lift-citem-label-accesskey
 msgid "A"
-msgstr ""
+msgstr "e"
 
 #. TRANSLATORS: Menu command for lifting a text, but where you are
 #. given a choice of languages for the input text.
 #: charlifter.csubmenu.lift.label
 msgid "Accentuate Text For..."
-msgstr ""
+msgstr "Herstel teks vir..."
 
 #: charlifter.citem.cancel.label
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselleer"
 
 #: charlifter.citem.cancel.accesskey
 msgid "C"
-msgstr ""
+msgstr "A"
 
 #. TRANSLATORS: If the program restores a text incorrectly, users can correct
 #. the error, select the corrected text, and then choose this menu item
 #. to send the correction to our server.
 #: charlifter.citem.feedback.label
 msgid "Submit Selection As Feedback"
-msgstr ""
+msgstr "Dien seleksie in as terugvoer"
 
 #: charlifter.citem.feedback.accesskey
 msgid "F"
-msgstr ""
+msgstr "t"
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: charlifter.about.menu.label
 msgid "About Accentuate.us"
-msgstr ""
+msgstr "Aangaande Accentuate.us"
 
 #. TRANSLATORS: The variable %1$S is filled in with the name of the program
 #: about-accentuateus
@@ -64,55 +71,61 @@ msgid ""
 "type quickly and easily in more than 100 languages without extra keystrokes "
 "or a special keyboard."
 msgstr ""
+"Hierdie byvoeging is 'n koppelvlak tot die %1$S-diens vir tale wat dit "
+"moontlik maak om vinnig en maklik in meer as 100 tale te tik sonder onnodige "
+"getik of spesiale sleutelbord."
 
 #: about-privacy
 msgid "Your privacy is our top priority!"
-msgstr ""
+msgstr "U privaatheid is ons hoogste prioriteit."
 
 #. TRANSLATORS: The variable %1$S is filled with the add-on authors' names
 #: about-copyright
 msgid "Copyright (c) 2010 %1$S"
-msgstr ""
+msgstr "Kopiereg (c) 2010 %1$S"
 
 #. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the license text
 #: about-license
 msgid "Licensed under %1$S."
-msgstr ""
+msgstr "Gelissensieer onder die %1$S."
 
 #. TRANSLATORS: This text will be followed by a link to a web page for contributors
 #: about-contribute
 msgid "Be part of our community:"
-msgstr ""
+msgstr "Wees deel van ons gemeenskap:"
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: errors-title
 msgid "Accentuate.us: Error"
-msgstr ""
+msgstr "Accentuate.us: Fout"
 
 #: errors-malfunction
 msgid "There is a problem with your installation.  Please try again later."
-msgstr ""
+msgstr "Daar is 'n probleem met u installasie.  Probeer gerus weer later."
 
 #: errors-communication
 msgid ""
 "The add-on was unable to connect with the server.  Please try again later."
 msgstr ""
+"Die byvoeging kon nie koppel aan die bediener nie.  Probeer gerus weer later."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-confirm-title
 msgid "Accentuate.us: Feedback"
-msgstr ""
+msgstr "Accentuate.us: Terugvoer"
 
 #: feedback-confirm
 msgid ""
 "Wait! Did you make sure to correct the text before submitting it as "
 "feedback?  You will only see this message once."
 msgstr ""
+"Net 'n oomblik! Is die teks vir korrektheid van die terugvoer gekontroleer "
+"voor indiening?  Hierdie boodskap sal net een keer wys."
 
 #. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-success-title
 msgid "Accentuate.us: Feedback Submitted"
-msgstr ""
+msgstr "Accentuate.us: Terugvoer ingedien"
 
 #: feedback-success
 msgid ""
@@ -120,15 +133,19 @@ msgid ""
 "learns from all text you submit as feedback, and over time this will help "
 "improve performance for your language."
 msgstr ""
+"Dankie vir u deelname in die Accentuate.us-gemeenskap.  Ons program leer van "
+"al die terugvoerteks wat ingedien word.  Mettertyd help dit die diens om te "
+"verbeter in u taal."
 
 #: feedback-success-hide
 msgid "Never display this message again."
-msgstr ""
+msgstr "Moenie hierdie boodskap weer wys nie."
 
 #: feedback-fail
 msgid ""
 "Please resubmit the feedback once you have corrected the text. Thank you!"
 msgstr ""
+"Dien die terugvoer gerus weer in nadat die teks gekorrigeer is. Dankie!"
 
 #. TRANSLATORS: This is given as an option in the list of languages, and if
 #. chosen, all special characters are removed from the text ("deaccentuation").
@@ -139,55 +156,55 @@ msgstr ""
 
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
-msgstr ""
+msgstr "Fout: U weergawe van die taallys is nuwer as die een op die bediener."
 
 msgid "No text to lift"
-msgstr ""
+msgstr "Geen teks om te herstel nie"
 
 msgid "No target language was specified"
-msgstr ""
+msgstr "Geen teiken taal is gespesifiseer nie"
 
 msgid "The chosen language is not available"
-msgstr ""
+msgstr "Die gekose taal is nie beskikbaar nie"
 
 msgid "No feedback text was sent to the server"
-msgstr ""
+msgstr "Geen terugvoerteks is na die bediener gestuur nie"
 
 msgid "The language of the feedback text was not specified"
-msgstr ""
+msgstr "Die taal van die terugvoerteks is nie gespesifiseer nie"
 
 msgid "Problem saving feedback text"
-msgstr ""
+msgstr "Probleem met die stoor van terugvoerteks"
 
 msgid "Usage: %1$S -r -l XX [FILES-TO-RESTORE]"
-msgstr ""
+msgstr "Gebruik: %1$S -r -l XX [LÊERS-OM-TE-KORRIGEER]"
 
 msgid "or     %1$S -r -l XX -i ASCII-TEXT"
-msgstr ""
+msgstr "of     %1$S -r -l XX -i ASCII-TEKS"
 
 msgid "or     %1$S -f -l XX [CORRECT-FILES]"
-msgstr ""
+msgstr "of     %1$S -f -l XX [KORREKTE-LÊERS]"
 
 msgid "or     %1$S --list (show all available languages)"
-msgstr ""
+msgstr "of     %1$S --list (wys alle beskikbare tale)"
 
 msgid "or     %1$S --help (display this help)"
-msgstr ""
+msgstr "of     %1$S --help (vertoon dié hulp)"
 
 msgid "Long versions of the command-line switches are available also:"
-msgstr ""
+msgstr "Lang weergawes van die opdryglyn-keuses is ook beskikbaar:"
 
 msgid "Didn't understand the response from the server"
-msgstr ""
+msgstr "Het nie die bediener se antwoord verstaan nie"
 
 msgid "You must specify exactly one of -f or -r."
-msgstr ""
+msgstr "Spesifiseer presies een van -f of -r."
 
 msgid "You must specify a language with -l or --lang."
-msgstr ""
+msgstr "Spesifiseer 'n taal met -l of --lang."
 
 msgid "Option --input/-i may only be used with --restore/-r."
-msgstr ""
+msgstr "Die keuse --input/-i mag net saam met --restore/-r gebruik word."
 
 #. TRANSLATORS: All remaining strings are language names.
 #. ada
@@ -236,7 +253,7 @@ msgstr "Bretons"
 
 #. bum
 msgid "Bulu"
-msgstr ""
+msgstr "Boeloe"
 
 #. byv
 msgid "Medumba"
@@ -244,7 +261,7 @@ msgstr ""
 
 #. ca
 msgid "Catalan"
-msgstr "Katalonies"
+msgstr "Katalaans"
 
 #. ch
 msgid "Chamorro"
@@ -252,7 +269,7 @@ msgstr "Tjamorrees"
 
 #. csb
 msgid "Kashubian"
-msgstr "Kashubian"
+msgstr ""
 
 #. cs
 msgid "Czech"
@@ -316,7 +333,7 @@ msgstr "Fins"
 
 #. fo
 msgid "Faroese"
-msgstr "Färöers"
+msgstr "Faroees"
 
 #. fon
 msgid "Fon"
@@ -328,7 +345,7 @@ msgstr "Frans"
 
 #. fur
 msgid "Friulian"
-msgstr "Frioelies"
+msgstr "Friulies"
 
 #. fy
 msgid "Frisian"
@@ -352,7 +369,7 @@ msgstr "Skots-Gaelies"
 
 #. gl
 msgid "Galician"
-msgstr "Gallikaans"
+msgstr "Galisies"
 
 #. guw
 msgid "Gun-Gbe"
@@ -364,7 +381,7 @@ msgstr "Hausa"
 
 #. haw
 msgid "Hawaiian"
-msgstr "Hawais"
+msgstr "Hawaiïes"
 
 #. hr
 msgid "Croatian"
@@ -496,7 +513,7 @@ msgstr "Noors Nynorsk"
 
 #. nso
 msgid "Northern Sotho"
-msgstr "Noord Sotho"
+msgstr "Noord-Sotho"
 
 #. ny
 msgid "Chichewa"
@@ -632,7 +649,7 @@ msgstr "Joruba"
 
 #. zh
 msgid "Mandarin Chinese (Pinyin)"
-msgstr ""
+msgstr "Mandaryns Sjinees (Pinjin)"
 
 #. znd
 msgid "Zande"

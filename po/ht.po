@@ -143,7 +143,7 @@ msgstr "Silvouplè soumèt reyaksyon lè ou fini korije tèks la. Mèsi!"
 #. 'ASCII' would be more precise than 'Plain Text' but we are trying to keep
 #. things non-technical.
 msgid "Plain Text"
-msgstr ""
+msgstr "Tèks sèlman"
 
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
