@@ -250,6 +250,10 @@ msgstr "Katalónska"
 msgid "Chamorro"
 msgstr "Chamorro"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "Kashubian"
@@ -288,6 +292,10 @@ msgstr "Evenk"
 
 #. efi
 msgid "Efik"
+msgstr ""
+
+#. en
+msgid "English"
 msgstr ""
 
 #. eo

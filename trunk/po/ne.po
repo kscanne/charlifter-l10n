@@ -250,6 +250,10 @@ msgstr "कातालान"
 msgid "Chamorro"
 msgstr "चामोरो"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr ""
@@ -288,6 +292,10 @@ msgstr "ईव"
 
 #. efi
 msgid "Efik"
+msgstr ""
+
+#. en
+msgid "English"
 msgstr ""
 
 #. eo

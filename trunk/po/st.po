@@ -249,6 +249,10 @@ msgstr "seKhatalane"
 msgid "Chamorro"
 msgstr "seChamoro"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr ""
@@ -287,6 +291,10 @@ msgstr "seEwe"
 
 #. efi
 msgid "Efik"
+msgstr ""
+
+#. en
+msgid "English"
 msgstr ""
 
 #. eo

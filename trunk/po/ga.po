@@ -153,8 +153,8 @@ msgstr "Gnáth-Théacs"
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
 msgstr ""
-"Earráid: Tá an leagan den liosta teangacha atá agat níos nuaí ná an leagan "
-"ar an bhfreastalaí."
+"Earráid: Tá an leagan den liosta teangacha atá agat níos nuaí ná an leagan ar "
+"an bhfreastalaí."
 
 msgid "No text to lift"
 msgstr "Níl aon téacs le hathchóiriú"
@@ -267,6 +267,10 @@ msgstr "Catalóinis"
 msgid "Chamorro"
 msgstr "Seamóróis"
 
+#. chr
+msgid "Cherokee"
+msgstr "Seiricis"
+
 #. csb
 msgid "Kashubian"
 msgstr "Caisiúibis"
@@ -306,6 +310,10 @@ msgstr "Éivéis"
 #. efi
 msgid "Efik"
 msgstr "Eificis"
+
+#. en
+msgid "English"
+msgstr "Béarla"
 
 #. eo
 msgid "Esperanto"

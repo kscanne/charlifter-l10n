@@ -249,6 +249,10 @@ msgstr "Katalane"
 msgid "Chamorro"
 msgstr "Kamorreze"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr ""
@@ -287,6 +291,10 @@ msgstr "Eueane"
 
 #. efi
 msgid "Efik"
+msgstr ""
+
+#. en
+msgid "English"
 msgstr ""
 
 #. eo

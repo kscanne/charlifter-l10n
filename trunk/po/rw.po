@@ -250,6 +250,10 @@ msgstr "Ikinyakatala"
 msgid "Chamorro"
 msgstr "Igishamoro"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "Ikikashubiyani"
@@ -289,6 +293,10 @@ msgstr "Icyewe"
 #. efi
 msgid "Efik"
 msgstr "Ikinyefike"
+
+#. en
+msgid "English"
+msgstr ""
 
 #. eo
 msgid "Esperanto"

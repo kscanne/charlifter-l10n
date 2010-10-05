@@ -249,6 +249,10 @@ msgstr "IsiCatalan"
 msgid "Chamorro"
 msgstr "IsiChamorro"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr ""
@@ -287,6 +291,10 @@ msgstr "Isi-Ewe"
 
 #. efi
 msgid "Efik"
+msgstr ""
+
+#. en
+msgid "English"
 msgstr ""
 
 #. eo

@@ -250,6 +250,10 @@ msgstr "カタロニア語"
 msgid "Chamorro"
 msgstr "チャモロ語"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "カシューブ語"
@@ -289,6 +293,10 @@ msgstr "エウェ語"
 #. efi
 msgid "Efik"
 msgstr "エフィク語"
+
+#. en
+msgid "English"
+msgstr ""
 
 #. eo
 msgid "Esperanto"

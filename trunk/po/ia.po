@@ -131,8 +131,8 @@ msgid ""
 "improve performance for your language."
 msgstr ""
 "Gratias pro esser parte de le communitate de Accentuate.us. Nostre programma "
-"apprende ex omne texto que tu submitte como feedback, e ,con le tempore, isto "
-"adjutara a meliorar le performance pro tu linguage."
+"apprende ex omne texto que tu submitte como feedback, e ,con le tempore, "
+"isto adjutara a meliorar le performance pro tu linguage."
 
 #: feedback-success-hide
 msgid "Never display this message again."
@@ -268,6 +268,10 @@ msgstr "Catalan"
 msgid "Chamorro"
 msgstr "Chamorro"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "Kashubian"
@@ -307,6 +311,10 @@ msgstr "Ewe"
 #. efi
 msgid "Efik"
 msgstr "Efik"
+
+#. en
+msgid "English"
+msgstr ""
 
 #. eo
 msgid "Esperanto"
@@ -655,4 +663,3 @@ msgstr "Chinese Mandarin"
 #. znd
 msgid "Zande"
 msgstr "Zande"
-

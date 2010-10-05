@@ -250,6 +250,10 @@ msgstr "카타란어"
 msgid "Chamorro"
 msgstr "차모로어"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "카슈비아어"
@@ -288,6 +292,10 @@ msgstr "이유어"
 
 #. efi
 msgid "Efik"
+msgstr ""
+
+#. en
+msgid "English"
 msgstr ""
 
 #. eo
