@@ -249,6 +249,10 @@ msgstr "TshiCatalan"
 msgid "Chamorro"
 msgstr "TshiChamorro"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr ""
@@ -287,6 +291,10 @@ msgstr "TshiEwe"
 
 #. efi
 msgid "Efik"
+msgstr ""
+
+#. en
+msgid "English"
 msgstr ""
 
 #. eo

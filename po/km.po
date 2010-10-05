@@ -250,6 +250,10 @@ msgstr "កាតាឡាន"
 msgid "Chamorro"
 msgstr "ចាម៉ូរ៉ូ"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "កាស៊ូបៀន"
@@ -288,6 +292,10 @@ msgstr ""
 
 #. efi
 msgid "Efik"
+msgstr ""
+
+#. en
+msgid "English"
 msgstr ""
 
 #. eo

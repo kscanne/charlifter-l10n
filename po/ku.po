@@ -250,6 +250,10 @@ msgstr "Zimanê Katalan"
 msgid "Chamorro"
 msgstr "Zimanê Chamorro"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "Kaşûbî"
@@ -288,6 +292,10 @@ msgstr "Zimanê Ewe"
 
 #. efi
 msgid "Efik"
+msgstr ""
+
+#. en
+msgid "English"
 msgstr ""
 
 #. eo

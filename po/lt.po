@@ -250,6 +250,10 @@ msgstr "Katalonų"
 msgid "Chamorro"
 msgstr "Čamoro"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "Kašubų"
@@ -288,6 +292,10 @@ msgstr "Ivių"
 
 #. efi
 msgid "Efik"
+msgstr ""
+
+#. en
+msgid "English"
 msgstr ""
 
 #. eo

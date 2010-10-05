@@ -250,6 +250,10 @@ msgstr "Канада"
 msgid "Chamorro"
 msgstr "Чаморро"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "Кашубша"
@@ -288,6 +292,10 @@ msgstr "Эве"
 
 #. efi
 msgid "Efik"
+msgstr ""
+
+#. en
+msgid "English"
 msgstr ""
 
 #. eo

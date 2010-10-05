@@ -250,6 +250,10 @@ msgstr "คาตะลาน"
 msgid "Chamorro"
 msgstr "ชามอร์โร"
 
+#. chr
+msgid "Cherokee"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "ภาษาคาชูเบียน"
@@ -288,6 +292,10 @@ msgstr "เอเว"
 
 #. efi
 msgid "Efik"
+msgstr ""
+
+#. en
+msgid "English"
 msgstr ""
 
 #. eo
