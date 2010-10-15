@@ -29,9 +29,19 @@ msgstr "A"
 
 #. TRANSLATORS: Menu command for lifting a text, but where you are
 #. given a choice of languages for the input text.
-#: charlifter.csubmenu.lift.label
+#: lift-cmenu-label
 msgid "Accentuate Text For..."
 msgstr "Accentuate Text For..."
+
+#. %1$S is the language name, %2$S is its code,
+#. e.g. "Accentuate Highlighted Text: Spanish (es)"
+#: lift-citem-selection-label
+msgid "Accentuate Selected Text: %1$S (%2$S)"
+msgstr "Accentuate Selected Text: %1$S (%2$S)"
+
+#: lift-cmenu-label-selected
+msgid "Accentuate Selected Text For..."
+msgstr "Accentuate Selected Text For..."
 
 #: charlifter.citem.cancel.label
 msgid "Cancel"
