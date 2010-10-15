@@ -29,9 +29,19 @@ msgstr "A"
 
 #. TRANSLATORS: Menu command for lifting a text, but where you are
 #. given a choice of languages for the input text.
-#: charlifter.csubmenu.lift.label
+#: lift-cmenu-label
 msgid "Accentuate Text For..."
 msgstr "Athchóirigh an Téacs le haghaidh..."
+
+#. %1$S is the language name, %2$S is its code,
+#. e.g. "Accentuate Highlighted Text: Spanish (es)"
+#: lift-citem-selection-label
+msgid "Accentuate Selected Text: %1$S (%2$S)"
+msgstr "Athchóirigh an Téacs Roghnaithe: %1$S (%2$S)"
+
+#: lift-cmenu-label-selected
+msgid "Accentuate Selected Text For..."
+msgstr "Athchóirigh an Téacs Roghnaithe le haghaidh..."
 
 #: charlifter.citem.cancel.label
 msgid "Cancel"
@@ -153,8 +163,8 @@ msgstr "Gnáth-Théacs"
 msgid ""
 "Error: Your version of the language list is newer than the one on the server."
 msgstr ""
-"Earráid: Tá an leagan den liosta teangacha atá agat níos nuaí ná an leagan ar "
-"an bhfreastalaí."
+"Earráid: Tá an leagan den liosta teangacha atá agat níos nuaí ná an leagan "
+"ar an bhfreastalaí."
 
 msgid "No text to lift"
 msgstr "Níl aon téacs le hathchóiriú"
