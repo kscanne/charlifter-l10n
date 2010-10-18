@@ -39,7 +39,7 @@ msgstr "Accentuate Text For..."
 msgid "Accentuate Selected Text: %1$S (%2$S)"
 msgstr "Accentuate Selected Text: %1$S (%2$S)"
 
-#: lift-cmenu-label-selected
+#: lift-cmenu-selection-label
 msgid "Accentuate Selected Text For..."
 msgstr "Accentuate Selected Text For..."
 

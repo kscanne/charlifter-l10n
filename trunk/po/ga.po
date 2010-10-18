@@ -39,7 +39,7 @@ msgstr "Athchóirigh an Téacs le haghaidh..."
 msgid "Accentuate Selected Text: %1$S (%2$S)"
 msgstr "Athchóirigh an Téacs Roghnaithe: %1$S (%2$S)"
 
-#: lift-cmenu-label-selected
+#: lift-cmenu-selection-label
 msgid "Accentuate Selected Text For..."
 msgstr "Athchóirigh an Téacs Roghnaithe le haghaidh..."
 
