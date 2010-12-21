@@ -376,6 +376,10 @@ msgstr "গ্যালিশিয়ান"
 msgid "Gun-Gbe"
 msgstr ""
 
+#. gv
+msgid "Manx Gaelic"
+msgstr ""
+
 #. ha
 msgid "Hausa"
 msgstr "হাউসা"
@@ -557,8 +561,8 @@ msgid "Sena"
 msgstr ""
 
 #. se
-msgid "Northern Saami"
-msgstr "উত্তর সামি"
+msgid "Northern Sámi"
+msgstr ""
 
 #. sg
 msgid "Sango"
@@ -655,3 +659,6 @@ msgstr ""
 #. znd
 msgid "Zande"
 msgstr ""
+
+#~ msgid "Northern Saami"
+#~ msgstr "উত্তর সামি"

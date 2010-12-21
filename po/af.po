@@ -393,6 +393,10 @@ msgstr "Galisies"
 msgid "Gun-Gbe"
 msgstr ""
 
+#. gv
+msgid "Manx Gaelic"
+msgstr ""
+
 #. ha
 msgid "Hausa"
 msgstr "Hausa"
@@ -574,8 +578,8 @@ msgid "Sena"
 msgstr ""
 
 #. se
-msgid "Northern Saami"
-msgstr "Noord-Sami"
+msgid "Northern Sámi"
+msgstr ""
 
 #. sg
 msgid "Sango"
@@ -672,3 +676,6 @@ msgstr "Mandaryns Sjinees (Pinjin)"
 #. znd
 msgid "Zande"
 msgstr ""
+
+#~ msgid "Northern Saami"
+#~ msgstr "Noord-Sami"

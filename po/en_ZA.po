@@ -387,6 +387,10 @@ msgstr "Galician"
 msgid "Gun-Gbe"
 msgstr "Gun-Gbe"
 
+#. gv
+msgid "Manx Gaelic"
+msgstr "Manx Gaelic"
+
 #. ha
 msgid "Hausa"
 msgstr "Hausa"
@@ -568,8 +572,8 @@ msgid "Sena"
 msgstr "Sena"
 
 #. se
-msgid "Northern Saami"
-msgstr "Northern Saami"
+msgid "Northern Sámi"
+msgstr "Northern Sámi"
 
 #. sg
 msgid "Sango"
@@ -666,6 +670,9 @@ msgstr "Mandarin Chinese (Pinyin)"
 #. znd
 msgid "Zande"
 msgstr "Zande"
+
+#~ msgid "Northern Saami"
+#~ msgstr "Northern Saami"
 
 #~ msgid "The language of the feedback text was not was specified"
 #~ msgstr "The language of the feedback text was not was specified"

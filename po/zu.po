@@ -375,6 +375,10 @@ msgstr "IsiGalician"
 msgid "Gun-Gbe"
 msgstr ""
 
+#. gv
+msgid "Manx Gaelic"
+msgstr ""
+
 #. ha
 msgid "Hausa"
 msgstr "IsiHausa"
@@ -556,8 +560,8 @@ msgid "Sena"
 msgstr ""
 
 #. se
-msgid "Northern Saami"
-msgstr "IsiSami SaseNyakatho"
+msgid "Northern Sámi"
+msgstr ""
 
 #. sg
 msgid "Sango"
@@ -654,3 +658,6 @@ msgstr ""
 #. znd
 msgid "Zande"
 msgstr ""
+
+#~ msgid "Northern Saami"
+#~ msgstr "IsiSami SaseNyakatho"

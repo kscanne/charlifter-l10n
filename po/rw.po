@@ -376,6 +376,10 @@ msgstr "ikigarisiya"
 msgid "Gun-Gbe"
 msgstr ""
 
+#. gv
+msgid "Manx Gaelic"
+msgstr ""
+
 #. ha
 msgid "Hausa"
 msgstr "Igihawusa"
@@ -557,8 +561,8 @@ msgid "Sena"
 msgstr ""
 
 #. se
-msgid "Northern Saami"
-msgstr "Igisami cy'Amajyaruguru"
+msgid "Northern Sámi"
+msgstr ""
 
 #. sg
 msgid "Sango"
@@ -655,3 +659,6 @@ msgstr ""
 #. znd
 msgid "Zande"
 msgstr "Ikizande"
+
+#~ msgid "Northern Saami"
+#~ msgstr "Igisami cy'Amajyaruguru"
