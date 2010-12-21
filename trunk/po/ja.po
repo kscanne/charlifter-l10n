@@ -376,6 +376,10 @@ msgstr "ガリシア語"
 msgid "Gun-Gbe"
 msgstr ""
 
+#. gv
+msgid "Manx Gaelic"
+msgstr ""
+
 #. ha
 msgid "Hausa"
 msgstr "ハウサ語"
@@ -557,8 +561,8 @@ msgid "Sena"
 msgstr ""
 
 #. se
-msgid "Northern Saami"
-msgstr "北サーミ語"
+msgid "Northern Sámi"
+msgstr ""
 
 #. sg
 msgid "Sango"
@@ -655,3 +659,6 @@ msgstr ""
 #. znd
 msgid "Zande"
 msgstr ""
+
+#~ msgid "Northern Saami"
+#~ msgstr "北サーミ語"

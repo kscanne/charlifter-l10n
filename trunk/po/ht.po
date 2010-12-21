@@ -37,11 +37,11 @@ msgstr "Korije tèks la pou..."
 #. e.g. "Accentuate Highlighted Text: Spanish (es)"
 #: lift-citem-selection-label
 msgid "Accentuate Selected Text: %1$S (%2$S)"
-msgstr ""
+msgstr "Mete aksan sou tèks seleksyone a: %1$S (%2$S)"
 
 #: lift-cmenu-selection-label
 msgid "Accentuate Selected Text For..."
-msgstr ""
+msgstr "Mete aksan sou tèks seleksyone pou..."
 
 #: charlifter.citem.cancel.label
 msgid "Cancel"
@@ -270,7 +270,7 @@ msgstr "Chamoro"
 
 #. chr
 msgid "Cherokee"
-msgstr ""
+msgstr "Cheroki"
 
 #. csb
 msgid "Kashubian"
@@ -314,7 +314,7 @@ msgstr "Efik"
 
 #. en
 msgid "English"
-msgstr ""
+msgstr "Anglè"
 
 #. eo
 msgid "Esperanto"
@@ -383,6 +383,10 @@ msgstr "Galisyen"
 #. guw
 msgid "Gun-Gbe"
 msgstr "Gonn-Gbe"
+
+#. gv
+msgid "Manx Gaelic"
+msgstr ""
 
 #. ha
 msgid "Hausa"
@@ -565,8 +569,8 @@ msgid "Sena"
 msgstr "Sena"
 
 #. se
-msgid "Northern Saami"
-msgstr "Saami Nò"
+msgid "Northern Sámi"
+msgstr ""
 
 #. sg
 msgid "Sango"
@@ -663,6 +667,9 @@ msgstr "Mandaren Chinwa (Penyin)"
 #. znd
 msgid "Zande"
 msgstr "Zande"
+
+#~ msgid "Northern Saami"
+#~ msgstr "Saami Nò"
 
 #~ msgid "The language of the feedback text was not was specified"
 #~ msgstr "Lang tèks reyaksyon la pat espesifye"

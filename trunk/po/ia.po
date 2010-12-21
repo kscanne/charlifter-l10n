@@ -394,6 +394,10 @@ msgstr "Galleco"
 msgid "Gun-Gbe"
 msgstr "Gun-Gbe"
 
+#. gv
+msgid "Manx Gaelic"
+msgstr ""
+
 #. ha
 msgid "Hausa"
 msgstr "Hausa"
@@ -575,8 +579,8 @@ msgid "Sena"
 msgstr "Sena"
 
 #. se
-msgid "Northern Saami"
-msgstr "Sami Septentrional"
+msgid "Northern Sámi"
+msgstr ""
 
 #. sg
 msgid "Sango"
@@ -673,3 +677,6 @@ msgstr "Chinese Mandarin"
 #. znd
 msgid "Zande"
 msgstr "Zande"
+
+#~ msgid "Northern Saami"
+#~ msgstr "Sami Septentrional"

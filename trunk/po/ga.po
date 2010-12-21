@@ -393,6 +393,10 @@ msgstr "Gailísis"
 msgid "Gun-Gbe"
 msgstr "Gun-Gbéis"
 
+#. gv
+msgid "Manx Gaelic"
+msgstr "Manainnis"
+
 #. ha
 msgid "Hausa"
 msgstr "Hásais"
@@ -574,7 +578,7 @@ msgid "Sena"
 msgstr "Séinis"
 
 #. se
-msgid "Northern Saami"
+msgid "Northern Sámi"
 msgstr "Sáimis Thuaidh"
 
 #. sg
@@ -672,6 +676,9 @@ msgstr "Mandairínis (Pinyin)"
 #. znd
 msgid "Zande"
 msgstr "Záindéis"
+
+#~ msgid "Northern Saami"
+#~ msgstr "Sáimis Thuaidh"
 
 #~ msgid "The language of the feedback text was not was specified"
 #~ msgstr "Níor sonraíodh teanga an téacs aiseolais"
