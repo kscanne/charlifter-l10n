@@ -465,6 +465,10 @@ msgstr "Cadhaindis"
 msgid "Kurdish"
 msgstr "Coirdis"
 
+#. lag
+msgid "Langi"
+msgstr "Laingis"
+
 #. ln
 msgid "Lingala"
 msgstr "Liongáilis"
