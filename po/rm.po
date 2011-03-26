@@ -447,6 +447,10 @@ msgstr ""
 msgid "Kurdish"
 msgstr "Curd"
 
+#. lag
+msgid "Langi"
+msgstr ""
+
 #. ln
 msgid "Lingala"
 msgstr "Lingala"

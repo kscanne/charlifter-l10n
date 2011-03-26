@@ -459,6 +459,10 @@ msgstr "Kaonde"
 msgid "Kurdish"
 msgstr "Kurdish"
 
+#. lag
+msgid "Langi"
+msgstr "Langi"
+
 #. ln
 msgid "Lingala"
 msgstr "Lingala"
