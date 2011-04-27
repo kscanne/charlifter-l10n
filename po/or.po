@@ -284,6 +284,10 @@ msgstr "ଡେନିସ"
 msgid "German"
 msgstr "ଜର୍ମାନ"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr "ଡ଼ୁଆଲା"

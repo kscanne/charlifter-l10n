@@ -284,6 +284,10 @@ msgstr "Đan Mạch"
 msgid "German"
 msgstr "Đức"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr "Tiếng Đu-a-la"

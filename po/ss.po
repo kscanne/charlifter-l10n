@@ -283,6 +283,10 @@ msgstr "Sidenishi"
 msgid "German"
 msgstr "Sijalimane"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

@@ -284,6 +284,10 @@ msgstr "ដាណឺម៉ាក"
 msgid "German"
 msgstr "អាល្លឺម៉ង់"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

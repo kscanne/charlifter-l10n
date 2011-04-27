@@ -301,6 +301,10 @@ msgstr "Danmhairgis"
 msgid "German"
 msgstr "Gearmáinis"
 
+#. dlc
+msgid "Elfdalian"
+msgstr "Eilfdeáilis"
+
 #. dua
 msgid "Duala"
 msgstr "Duailis"

@@ -284,6 +284,10 @@ msgstr "דנית"
 msgid "German"
 msgstr "גרמנית"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

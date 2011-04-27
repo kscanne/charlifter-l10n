@@ -284,6 +284,10 @@ msgstr "Daniyacha"
 msgid "German"
 msgstr "Olmoncha"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

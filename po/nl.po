@@ -284,6 +284,10 @@ msgstr "Deens"
 msgid "German"
 msgstr "Duits"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr "Duala"

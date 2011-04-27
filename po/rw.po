@@ -284,6 +284,10 @@ msgstr "Ikidanwa"
 msgid "German"
 msgstr "Ikidage"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr "Ikinyaduwala"

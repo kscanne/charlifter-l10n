@@ -284,6 +284,10 @@ msgstr "Дания"
 msgid "German"
 msgstr "Неміс"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

@@ -284,6 +284,10 @@ msgstr "Даниявӣ"
 msgid "German"
 msgstr "Немисӣ"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

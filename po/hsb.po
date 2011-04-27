@@ -284,6 +284,10 @@ msgstr "Dansce"
 msgid "German"
 msgstr "Němsce"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

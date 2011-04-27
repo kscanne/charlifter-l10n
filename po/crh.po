@@ -284,6 +284,10 @@ msgstr "Danimarkaca"
 msgid "German"
 msgstr "Almanca"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr "Duala (Afrika)"

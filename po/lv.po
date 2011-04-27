@@ -284,6 +284,10 @@ msgstr "Dāņu"
 msgid "German"
 msgstr "Vācu"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

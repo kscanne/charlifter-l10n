@@ -284,6 +284,10 @@ msgstr "ডেনিশ্ব"
 msgid "German"
 msgstr "জাৰ্মান"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr "ডুৱালা"

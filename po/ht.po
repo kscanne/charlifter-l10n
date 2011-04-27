@@ -292,6 +292,10 @@ msgstr "Danwa"
 msgid "German"
 msgstr "Alman"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr "Douala"

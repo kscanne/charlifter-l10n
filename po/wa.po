@@ -284,6 +284,10 @@ msgstr "Daenwès"
 msgid "German"
 msgstr "Almand"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr "Douwala"
