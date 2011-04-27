@@ -284,6 +284,10 @@ msgstr "ዴኒሽ"
 msgid "German"
 msgstr "ጀርመን"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

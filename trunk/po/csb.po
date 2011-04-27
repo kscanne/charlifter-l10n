@@ -284,6 +284,10 @@ msgstr "Dëńsczi"
 msgid "German"
 msgstr "Miemiecczi"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

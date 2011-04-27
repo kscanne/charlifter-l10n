@@ -283,6 +283,10 @@ msgstr "Daneze"
 msgid "German"
 msgstr "Gjermane"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

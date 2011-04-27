@@ -283,6 +283,10 @@ msgstr "isi-Danish"
 msgid "German"
 msgstr "isi-German"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

@@ -284,6 +284,10 @@ msgstr "டானிஷ்"
 msgid "German"
 msgstr "ஜெர்மன்"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr "டுயூலா"

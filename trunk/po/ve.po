@@ -283,6 +283,10 @@ msgstr "TshiDanish"
 msgid "German"
 msgstr "TshiGerman"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

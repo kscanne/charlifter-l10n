@@ -284,6 +284,10 @@ msgstr "Dánskkagiella"
 msgid "German"
 msgstr "Duiskkagiella"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

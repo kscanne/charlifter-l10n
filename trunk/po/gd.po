@@ -1,8 +1,8 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: charlifter-l10n\n"
-"Report-Msgid-Bugs-To: http://code.google.com/p/charlifter-l10n/issues\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2010-08-14 12:05-0500\n"
 "PO-Revision-Date: 2011-04-19 14:45+0000\n"
 "Last-Translator: akerbeltz <fios@akerbeltz.org>\n"
@@ -14,15 +14,14 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n < 2 ? 0 : n == 2 ? 1 : 2\n"
 
 #. TRANSLATORS: This is a program for adding diacritics to texts
-#. automatically, for many different languages.  For example, if
+#. automatically, for many different languages.  For example, if 
 #. you input  "Pot sa mananc sticla si ea nu ma raneste" (Romanian),
 #. it outputs "Pot să mănânc sticlă și ea nu mă rănește".  We call
 #. this process "accentuating" the original text (this isn't the real
 #. meaning of "accentuate" in English - it's a pun).  This string is
 #. the menu command for accentuating a given text in the default language.
 #. You might translate it as "Restore (the) Text" or "Correct (the) Text".
-#. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish
-#. (es)"
+#. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish (es)"
 #: lift-citem-label
 msgid "Accentuate Text: %1$S (%2$S)"
 msgstr "Cuir stràcan air an teacsa: %1$S (%2$S)"
@@ -66,8 +65,7 @@ msgstr "Cuir a-null na thagh thu mar mholadh"
 msgid "F"
 msgstr "F"
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
-#. translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: charlifter.about.menu.label
 msgid "About Accentuate.us"
 msgstr "Mu Accentuate.us"
@@ -79,8 +77,8 @@ msgid ""
 "type quickly and easily in more than 100 languages without extra keystrokes "
 "or a special keyboard."
 msgstr ""
-"Tha an tuilleadan seo 'na eadar-aghaidh a chum na seirbheise cànain %1$S, nì"
-" a bheir comas dhut taidhpeadh gu furasta, sgiobalta, coileanta ann am "
+"Tha an tuilleadan seo 'na eadar-aghaidh a chum na seirbheise cànain %1$S, nì "
+"a bheir comas dhut taidhpeadh gu furasta, sgiobalta, coileanta ann am "
 "barrachd air 100 cànan as aonais ath-ghoiridean sònraichte air do mheur-"
 "chlàr no fiù meur-chlàr sònraichte."
 
@@ -93,38 +91,33 @@ msgstr "'S e do phrìobhaideachd an rud as cudromaiche dhuinn!"
 msgid "Copyright (c) 2010 %1$S"
 msgstr "Còir-lethbhreac (c) 2010 %1$S"
 
-#. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the
-#. license text
+#. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the license text
 #: about-license
 msgid "Licensed under %1$S."
 msgstr "Fo cheadachas %1$S."
 
-#. TRANSLATORS: This text will be followed by a link to a web page for
-#. contributors
+#. TRANSLATORS: This text will be followed by a link to a web page for contributors
 #: about-contribute
 msgid "Be part of our community:"
 msgstr "Gabh pàirt 'nar coimhearsnachd:"
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
-#. translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: errors-title
 msgid "Accentuate.us: Error"
 msgstr "Accentuate.us: Mearachd"
 
 #: errors-malfunction
 msgid "There is a problem with your installation.  Please try again later."
-msgstr ""
-"Bha mearachd ann leis an stàladh. Feuch ris a-rithist as a dhèidh seo."
+msgstr "Bha mearachd ann leis an stàladh. Feuch ris a-rithist as a dhèidh seo."
 
 #: errors-communication
 msgid ""
 "The add-on was unable to connect with the server.  Please try again later."
 msgstr ""
-"Cha b' urrainn dhan tuilleadan seo ceangal a dhèanamh ris an fhrithealaiche."
-" Feuch ris a-rithist as a dhèidh seo."
+"Cha b' urrainn dhan tuilleadan seo ceangal a dhèanamh ris an fhrithealaiche. "
+"Feuch ris a-rithist as a dhèidh seo."
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
-#. translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-confirm-title
 msgid "Accentuate.us: Feedback"
 msgstr "Accentuate.us: Molaidhean"
@@ -137,8 +130,7 @@ msgstr ""
 "Fuirich ort! Na cheartaich thu an teacsa mus do chuir thu thugainn e mar "
 "mholadh? Chan fhaic thu an teachdaireachd seo ach aon turas."
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
-#. translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
 #: feedback-success-title
 msgid "Accentuate.us: Feedback Submitted"
 msgstr "Accentuate.us: Chaidh do mholaidhean a chur a-null"
@@ -149,10 +141,10 @@ msgid ""
 "learns from all text you submit as feedback, and over time this will help "
 "improve performance for your language."
 msgstr ""
-"Mòran taing airson pàirt a ghabhail ann an coimhearsnachd Accentuate.us. Tha"
-" am prògram againn ag ionnsachadh aig gach pìos teacsa a chuireas tu "
-"thugainn mar mholadh agus cuiridh sin piseach air dèanadas a' phrògraim 'nad"
-" chànan ri tìde."
+"Mòran taing airson pàirt a ghabhail ann an coimhearsnachd Accentuate.us. Tha "
+"am prògram againn ag ionnsachadh aig gach pìos teacsa a chuireas tu thugainn "
+"mar mholadh agus cuiridh sin piseach air dèanadas a' phrògraim 'nad chànan "
+"ri tìde."
 
 #: feedback-success-hide
 msgid "Never display this message again."
@@ -162,20 +154,18 @@ msgstr "Na seall an teachdaireachd seo dhomh a-rithist."
 msgid ""
 "Please resubmit the feedback once you have corrected the text. Thank you!"
 msgstr ""
-"Cuir a-nall do mholaidhean a-rithist as dèidh dhut an teacsa a cheartachadh."
-" Gun robh math agad!"
+"Cuir a-nall do mholaidhean a-rithist as dèidh dhut an teacsa a cheartachadh. "
+"Gun robh math agad!"
 
 #. TRANSLATORS: This is given as an option in the list of languages, and if
-#. chosen, all special characters are removed from the text
-#. ("deaccentuation").
+#. chosen, all special characters are removed from the text ("deaccentuation").
 #. 'ASCII' would be more precise than 'Plain Text' but we are trying to keep
 #. things non-technical.
 msgid "Plain Text"
 msgstr "Teacsa Lom"
 
 msgid ""
-"Error: Your version of the language list is newer than the one on the "
-"server."
+"Error: Your version of the language list is newer than the one on the server."
 msgstr ""
 "Mearachd: Tha tionndadh liosta nan cànan agad-sa nas ùire na an tè air an "
 "fhrithealaiche."
@@ -315,6 +305,10 @@ msgstr "Danmhairgis"
 #. de
 msgid "German"
 msgstr "Gearmailtis"
+
+#. dlc
+msgid "Elfdalian"
+msgstr ""
 
 #. dua
 msgid "Duala"

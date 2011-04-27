@@ -284,6 +284,10 @@ msgstr "Taani"
 msgid "German"
 msgstr "Saksa"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

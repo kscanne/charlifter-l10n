@@ -284,6 +284,10 @@ msgstr "Daniera"
 msgid "German"
 msgstr "Alemana"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""

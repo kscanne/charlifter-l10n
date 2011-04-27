@@ -283,6 +283,10 @@ msgstr "SeDeniše"
 msgid "German"
 msgstr "Sejeremane"
 
+#. dlc
+msgid "Elfdalian"
+msgstr ""
+
 #. dua
 msgid "Duala"
 msgstr ""
