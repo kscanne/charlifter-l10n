@@ -231,7 +231,7 @@ msgstr "Acáinis"
 
 #. ay
 msgid "Aymara"
-msgstr "Adhmarais"
+msgstr "Aidhmiris"
 
 #. az
 msgid "Azerbaijani"
@@ -281,6 +281,10 @@ msgstr "Seamóróis"
 msgid "Cherokee"
 msgstr "Seiricis"
 
+#. cmn-Latn
+msgid "Mandarin Chinese (Pinyin)"
+msgstr "Mandairínis (Pinyin)"
+
 #. csb
 msgid "Kashubian"
 msgstr "Caisiúibis"
@@ -288,6 +292,10 @@ msgstr "Caisiúibis"
 #. cs
 msgid "Czech"
 msgstr "Seicis"
+
+#. cv
+msgid "Chuvash"
+msgstr "Suvaisis"
 
 #. cy
 msgid "Welsh"
@@ -507,7 +515,7 @@ msgstr "Laitvis"
 
 #. mg
 msgid "Malagasy"
-msgstr "Malagásais"
+msgstr "Malagáisis"
 
 #. mho
 msgid "Mashi"
@@ -547,7 +555,7 @@ msgstr "Seipidis"
 
 #. ny
 msgid "Chichewa"
-msgstr "Siseivis"
+msgstr "Siséivis"
 
 #. nyk
 msgid "Nyaneka"
@@ -676,10 +684,6 @@ msgstr "Yaois"
 #. yo
 msgid "Yoruba"
 msgstr "Iarúibis"
-
-#. zh
-msgid "Mandarin Chinese (Pinyin)"
-msgstr "Mandairínis (Pinyin)"
 
 #. znd
 msgid "Zande"

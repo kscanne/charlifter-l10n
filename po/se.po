@@ -264,6 +264,10 @@ msgstr "Chamorrogiella"
 msgid "Cherokee"
 msgstr ""
 
+#. cmn-Latn
+msgid "Mandarin Chinese (Pinyin)"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "Kašubiagiella"
@@ -271,6 +275,10 @@ msgstr "Kašubiagiella"
 #. cs
 msgid "Czech"
 msgstr "Čehkagiella"
+
+#. cv
+msgid "Chuvash"
+msgstr ""
 
 #. cy
 msgid "Welsh"
@@ -659,10 +667,6 @@ msgstr ""
 #. yo
 msgid "Yoruba"
 msgstr "Jorubagiella"
-
-#. zh
-msgid "Mandarin Chinese (Pinyin)"
-msgstr ""
 
 #. znd
 msgid "Zande"

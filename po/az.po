@@ -264,12 +264,20 @@ msgstr ""
 msgid "Cherokee"
 msgstr ""
 
+#. cmn-Latn
+msgid "Mandarin Chinese (Pinyin)"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr ""
 
 #. cs
 msgid "Czech"
+msgstr ""
+
+#. cv
+msgid "Chuvash"
 msgstr ""
 
 #. cy
@@ -658,10 +666,6 @@ msgstr ""
 
 #. yo
 msgid "Yoruba"
-msgstr ""
-
-#. zh
-msgid "Mandarin Chinese (Pinyin)"
 msgstr ""
 
 #. znd
