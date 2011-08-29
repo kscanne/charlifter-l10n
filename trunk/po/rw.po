@@ -264,6 +264,10 @@ msgstr "Igishamoro"
 msgid "Cherokee"
 msgstr ""
 
+#. cmn-Latn
+msgid "Mandarin Chinese (Pinyin)"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "Ikikashubiyani"
@@ -271,6 +275,10 @@ msgstr "Ikikashubiyani"
 #. cs
 msgid "Czech"
 msgstr "Igiceke"
+
+#. cv
+msgid "Chuvash"
+msgstr ""
 
 #. cy
 msgid "Welsh"
@@ -659,10 +667,6 @@ msgstr "Ikiyawo"
 #. yo
 msgid "Yoruba"
 msgstr "Ikiyoruba"
-
-#. zh
-msgid "Mandarin Chinese (Pinyin)"
-msgstr ""
 
 #. znd
 msgid "Zande"

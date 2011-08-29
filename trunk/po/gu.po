@@ -264,6 +264,10 @@ msgstr "ચામોરો"
 msgid "Cherokee"
 msgstr ""
 
+#. cmn-Latn
+msgid "Mandarin Chinese (Pinyin)"
+msgstr ""
+
 #. csb
 msgid "Kashubian"
 msgstr "કોસુબિન"
@@ -271,6 +275,10 @@ msgstr "કોસુબિન"
 #. cs
 msgid "Czech"
 msgstr "ચેઝ"
+
+#. cv
+msgid "Chuvash"
+msgstr ""
 
 #. cy
 msgid "Welsh"
@@ -659,10 +667,6 @@ msgstr "યાઓ"
 #. yo
 msgid "Yoruba"
 msgstr "યોર્બા"
-
-#. zh
-msgid "Mandarin Chinese (Pinyin)"
-msgstr ""
 
 #. znd
 msgid "Zande"
