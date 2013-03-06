@@ -1,71 +1,78 @@
+# 
+# Translators:
+#  <alberto_martinez@deusto.es>, 2013.
 msgid ""
 msgstr ""
-"Project-Id-Version: charlifter 0.06\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"Project-Id-Version: charlifter-l10n\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/charlifter-l10n/issues\n"
 "POT-Creation-Date: 2010-08-14 12:05-0500\n"
-"PO-Revision-Date: 2010-08-14 12:06-0500\n"
-"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
-"Language-Team: Spanish <es@li.org>\n"
+"PO-Revision-Date: 2013-01-21 09:08+0000\n"
+"Last-Translator: AMS <alberto_martinez@deusto.es>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/charlifter-l10n/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. TRANSLATORS: This is a program for adding diacritics to texts
-#. automatically, for many different languages.  For example, if 
+#. automatically, for many different languages.  For example, if
 #. you input  "Pot sa mananc sticla si ea nu ma raneste" (Romanian),
 #. it outputs "Pot să mănânc sticlă și ea nu mă rănește".  We call
 #. this process "accentuating" the original text (this isn't the real
 #. meaning of "accentuate" in English - it's a pun).  This string is
 #. the menu command for accentuating a given text in the default language.
 #. You might translate it as "Restore (the) Text" or "Correct (the) Text".
-#. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish (es)"
+#. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish
+#. (es)"
 #: lift-citem-label
 msgid "Accentuate Text: %1$S (%2$S)"
-msgstr ""
+msgstr "Acentuar Texto: %1$S (%2$S)"
 
 #: lift-citem-label-accesskey
 msgid "A"
-msgstr ""
+msgstr "A"
 
 #. TRANSLATORS: Menu command for lifting a text, but where you are
 #. given a choice of languages for the input text.
 #: lift-cmenu-label
 msgid "Accentuate Text For..."
-msgstr ""
+msgstr "Acentuar Texto Para..."
 
 #. %1$S is the language name, %2$S is its code,
 #. e.g. "Accentuate Highlighted Text: Spanish (es)"
 #: lift-citem-selection-label
 msgid "Accentuate Selected Text: %1$S (%2$S)"
-msgstr ""
+msgstr "Acentuar Texto Seleccionado: %1$S (%2$S)"
 
 #: lift-cmenu-selection-label
 msgid "Accentuate Selected Text For..."
-msgstr ""
+msgstr "Acentuar Texto Seleccionado Para..."
 
 #: charlifter.citem.cancel.label
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: charlifter.citem.cancel.accesskey
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #. TRANSLATORS: If the program restores a text incorrectly, users can correct
 #. the error, select the corrected text, and then choose this menu item
 #. to send the correction to our server.
 #: charlifter.citem.feedback.label
 msgid "Submit Selection As Feedback"
-msgstr ""
+msgstr "Enviar Selección Como Feedback"
 
 #: charlifter.citem.feedback.accesskey
 msgid "F"
-msgstr ""
+msgstr "F"
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
+#. translate it.
 #: charlifter.about.menu.label
 msgid "About Accentuate.us"
-msgstr ""
+msgstr "Acerca de Accentuate.us"
 
 #. TRANSLATORS: The variable %1$S is filled in with the name of the program
 #: about-accentuateus
@@ -73,131 +80,138 @@ msgid ""
 "This add-on is an interface to the %1$S language service that allows you to "
 "type quickly and easily in more than 100 languages without extra keystrokes "
 "or a special keyboard."
-msgstr ""
+msgstr "Este add-on es una interfaz del servicio de idiomas %1$S que te permite escribir rápida y fácilmente en más de 100 idiomas sin utlizar combinaciones de teclas o un teclado especial."
 
 #: about-privacy
 msgid "Your privacy is our top priority!"
-msgstr ""
+msgstr "¡Tu privacidad es nuestra mayor prioridad!"
 
 #. TRANSLATORS: The variable %1$S is filled with the add-on authors' names
 #: about-copyright
 msgid "Copyright (c) 2010 %1$S"
-msgstr ""
+msgstr "Copyright (c) 2010 %1$S"
 
-#. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the license text
+#. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the
+#. license text
 #: about-license
 msgid "Licensed under %1$S."
-msgstr ""
+msgstr "Licenciado bajo %1$S."
 
-#. TRANSLATORS: This text will be followed by a link to a web page for contributors
+#. TRANSLATORS: This text will be followed by a link to a web page for
+#. contributors
 #: about-contribute
 msgid "Be part of our community:"
-msgstr ""
+msgstr "Sé parte de nuestra comunidad:"
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
+#. translate it.
 #: errors-title
 msgid "Accentuate.us: Error"
-msgstr ""
+msgstr "Accentuate.us: Error"
 
 #: errors-malfunction
 msgid "There is a problem with your installation.  Please try again later."
-msgstr ""
+msgstr "Hay un problema con tu instalación. Por favor, inténtalo de nuevo más tarde."
 
 #: errors-communication
 msgid ""
 "The add-on was unable to connect with the server.  Please try again later."
-msgstr ""
+msgstr "El add-on no ha sido capaz de conectar con el servidor. Por favor, inténtalo de nuevo más tarde."
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
+#. translate it.
 #: feedback-confirm-title
 msgid "Accentuate.us: Feedback"
-msgstr ""
+msgstr "Accentuate.us: Feedback"
 
 #: feedback-confirm
 msgid ""
 "Wait! Did you make sure to correct the text before submitting it as "
 "feedback?  You will only see this message once."
-msgstr ""
+msgstr "¡Espera! ¿Estás seguro de haber corregido el texto antes de enviarlo como feedback? Sólo verás este mensaje una vez."
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
+#. translate it.
 #: feedback-success-title
 msgid "Accentuate.us: Feedback Submitted"
-msgstr ""
+msgstr "Accentuate.us: Feedback Enviado"
 
 #: feedback-success
 msgid ""
 "Thank you for be being part of the Accentuate.us community.  Our program "
 "learns from all text you submit as feedback, and over time this will help "
 "improve performance for your language."
-msgstr ""
+msgstr "Gracias por ser parte de la comunidad Accentuate.us. Nuestro programa aprende de todo el texto enviado como feedback, y con el tiempo esto ayudará a aumentar su eficacia para tu idioma."
 
 #: feedback-success-hide
 msgid "Never display this message again."
-msgstr ""
+msgstr "No mostrar este mensaje otra vez."
 
 #: feedback-fail
 msgid ""
 "Please resubmit the feedback once you have corrected the text. Thank you!"
-msgstr ""
+msgstr "Por favor vuelve a enviar tu feedback una vez que has corregido el texto. ¡Gracias!"
 
 #. TRANSLATORS: This is given as an option in the list of languages, and if
-#. chosen, all special characters are removed from the text ("deaccentuation").
+#. chosen, all special characters are removed from the text
+#. ("deaccentuation").
 #. 'ASCII' would be more precise than 'Plain Text' but we are trying to keep
 #. things non-technical.
 msgid "Plain Text"
-msgstr ""
+msgstr "Texto"
 
 msgid ""
-"Error: Your version of the language list is newer than the one on the server."
-msgstr ""
+"Error: Your version of the language list is newer than the one on the "
+"server."
+msgstr "Error: Tu versión de la lista de idiomas es más reciente que la del servidor."
 
 msgid "No text to lift"
-msgstr ""
+msgstr "No hay texto para acentuar"
 
 msgid "No target language was specified"
-msgstr ""
+msgstr "No se ha especificado el idioma objetivo"
 
 msgid "The chosen language is not available"
-msgstr ""
+msgstr "El idioma elegido no está disponible"
 
 msgid "No feedback text was sent to the server"
-msgstr ""
+msgstr "No se ha enviado el texto de feedback al servidor"
 
 msgid "The language of the feedback text was not specified"
-msgstr ""
+msgstr "No se ha especificado el idioma del feedback"
 
 msgid "Problem saving feedback text"
-msgstr ""
+msgstr "Problema al guardar el texto de feedback"
 
 msgid "Usage: %1$S -r -l XX [FILES-TO-RESTORE]"
-msgstr ""
+msgstr "Uso: %1$S -r -l XX [ARCHIVOS-A-RESTAURAR]"
 
 msgid "or     %1$S -r -l XX -i ASCII-TEXT"
-msgstr ""
+msgstr "o %1$S -r -l XX -i TEXTO-ASCII"
 
 msgid "or     %1$S -f -l XX [CORRECT-FILES]"
-msgstr ""
+msgstr "o %1$S -f -l XX [ARCHIVOS-CORRECTOS]"
 
 msgid "or     %1$S --list (show all available languages)"
-msgstr ""
+msgstr "or %1$S --list (muestra todos los idiomas disponibles)"
 
 msgid "or     %1$S --help (display this help)"
-msgstr ""
+msgstr "or %1$S --help (muestra este mensaje de ayuda)"
 
 msgid "Long versions of the command-line switches are available also:"
-msgstr ""
+msgstr "También hay versiones largas de las opciones de línea de comandos:"
 
 msgid "Didn't understand the response from the server"
-msgstr ""
+msgstr "No se ha podido entender la respuesta del servidor"
 
 msgid "You must specify exactly one of -f or -r."
-msgstr ""
+msgstr "Debes especificar -f o -r, pero no ambos."
 
 msgid "You must specify a language with -l or --lang."
-msgstr ""
+msgstr "Debes especificar un idioma con -l o --lang."
 
 msgid "Option --input/-i may only be used with --restore/-r."
-msgstr ""
+msgstr "La opción --input/-i sólo puede ser usada junto con --restore/-r"
 
 #. TRANSLATORS: All remaining strings are language names.
 #. ada
@@ -222,19 +236,19 @@ msgstr "Azerbaijani"
 
 #. bas
 msgid "Basaa"
-msgstr ""
+msgstr "Basaa"
 
 #. bci
 msgid "Baoulé"
-msgstr ""
+msgstr "Baoulé"
 
 #. bfa
 msgid "Bari"
-msgstr ""
+msgstr "Bari"
 
 #. bin
 msgid "Edo"
-msgstr ""
+msgstr "Edo"
 
 #. bm
 msgid "Bambara"
@@ -246,11 +260,11 @@ msgstr "Bretón"
 
 #. bum
 msgid "Bulu"
-msgstr ""
+msgstr "Bulu"
 
 #. byv
 msgid "Medumba"
-msgstr ""
+msgstr "Medumba"
 
 #. ca
 msgid "Catalan"
@@ -262,11 +276,11 @@ msgstr "Chamorro"
 
 #. chr
 msgid "Cherokee"
-msgstr ""
+msgstr "Cherokee"
 
 #. cmn-Latn
 msgid "Mandarin Chinese (Pinyin)"
-msgstr ""
+msgstr "Chino Mandarín (Pinyin)"
 
 #. csb
 msgid "Kashubian"
@@ -278,7 +292,7 @@ msgstr "Checo"
 
 #. cv
 msgid "Chuvash"
-msgstr ""
+msgstr "Chuvasio"
 
 #. cy
 msgid "Welsh"
@@ -294,7 +308,7 @@ msgstr "Alemán"
 
 #. dlc
 msgid "Elfdalian"
-msgstr ""
+msgstr "Dalecarliano"
 
 #. dua
 msgid "Duala"
@@ -302,7 +316,7 @@ msgstr "Duala"
 
 #. dyo
 msgid "Jola-Fogny"
-msgstr ""
+msgstr "Jola-Fogny"
 
 #. dyu
 msgid "Jula"
@@ -318,7 +332,7 @@ msgstr "Efik"
 
 #. en
 msgid "English"
-msgstr ""
+msgstr "Inglés"
 
 #. eo
 msgid "Esperanto"
@@ -386,11 +400,11 @@ msgstr "Gallego"
 
 #. guw
 msgid "Gun-Gbe"
-msgstr ""
+msgstr "Gun-Gbe"
 
 #. gv
 msgid "Manx Gaelic"
-msgstr ""
+msgstr "Gaélico Manés"
 
 #. ha
 msgid "Hausa"
@@ -426,7 +440,7 @@ msgstr "Igbo"
 
 #. igl
 msgid "Igala"
-msgstr ""
+msgstr "Igala"
 
 #. is
 msgid "Icelandic"
@@ -442,7 +456,7 @@ msgstr "Kamba"
 
 #. kck
 msgid "Kalanga"
-msgstr ""
+msgstr "Kalanga"
 
 #. ki
 msgid "Gikuyu"
@@ -454,7 +468,7 @@ msgstr "Kimbundu"
 
 #. kqn
 msgid "Kaonde"
-msgstr ""
+msgstr "Kaonde"
 
 #. ku
 msgid "Kurdish"
@@ -462,7 +476,7 @@ msgstr "Kurdo"
 
 #. lag
 msgid "Langi"
-msgstr ""
+msgstr "Langi"
 
 #. ln
 msgid "Lingala"
@@ -502,7 +516,7 @@ msgstr "Malagasy"
 
 #. mho
 msgid "Mashi"
-msgstr ""
+msgstr "Mashi"
 
 #. mi
 msgid "Maori"
@@ -542,7 +556,7 @@ msgstr "Chichewa"
 
 #. nyk
 msgid "Nyaneka"
-msgstr ""
+msgstr "Nyaneka"
 
 #. pl
 msgid "Polish"
@@ -566,7 +580,7 @@ msgstr "Rumano"
 
 #. sba
 msgid "Ngambay"
-msgstr ""
+msgstr "Ngambay"
 
 #. sc
 msgid "Sardinian"
@@ -574,11 +588,11 @@ msgstr "Sardinian"
 
 #. seh
 msgid "Sena"
-msgstr ""
+msgstr "Sena"
 
 #. se
 msgid "Northern Sámi"
-msgstr ""
+msgstr "Saami Norteño"
 
 #. sg
 msgid "Sango"
@@ -598,7 +612,7 @@ msgstr "Samoan"
 
 #. son
 msgid "Songhay"
-msgstr ""
+msgstr "Songhay"
 
 #. sq
 msgid "Albanian"
@@ -638,7 +652,7 @@ msgstr "Umbundu"
 
 #. urh
 msgid "Urhobo"
-msgstr ""
+msgstr "Urhobo"
 
 #. ve
 msgid "Venda"
@@ -650,7 +664,7 @@ msgstr "Vietnamita"
 
 #. vmw
 msgid "Makhuwa"
-msgstr ""
+msgstr "Macua"
 
 #. wa
 msgid "Walloon"
@@ -670,7 +684,19 @@ msgstr "Yoruba"
 
 #. znd
 msgid "Zande"
-msgstr ""
+msgstr "Azande"
 
 #~ msgid "Northern Saami"
-#~ msgstr "Northern Sami"
+#~ msgstr "Northern Saami"
+
+#~ msgid "The language of the feedback text was not was specified"
+#~ msgstr "The language of the feedback text was not was specified"
+
+#~ msgid "Lift Text"
+#~ msgstr "Lift Text"
+
+#~ msgid "Lift Text for Language"
+#~ msgstr "Lift Text for Language"
+
+#~ msgid "Language not available"
+#~ msgstr "Language not available"
