@@ -1,24 +1,29 @@
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: charlifter 0.06\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"Project-Id-Version: charlifter-l10n\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/charlifter-l10n/issues\n"
 "POT-Creation-Date: 2010-08-14 12:05-0500\n"
-"PO-Revision-Date: 2010-08-14 12:06-0500\n"
+"PO-Revision-Date: 2013-04-29 09:33+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
-"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"Language-Team: Irish (http://www.transifex.com/projects/p/charlifter-l10n/language/ga/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ga\n"
+"Plural-Forms: nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);\n"
 
 #. TRANSLATORS: This is a program for adding diacritics to texts
-#. automatically, for many different languages.  For example, if 
+#. automatically, for many different languages.  For example, if
 #. you input  "Pot sa mananc sticla si ea nu ma raneste" (Romanian),
 #. it outputs "Pot să mănânc sticlă și ea nu mă rănește".  We call
 #. this process "accentuating" the original text (this isn't the real
 #. meaning of "accentuate" in English - it's a pun).  This string is
 #. the menu command for accentuating a given text in the default language.
 #. You might translate it as "Restore (the) Text" or "Correct (the) Text".
-#. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish (es)"
+#. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish
+#. (es)"
 #: lift-citem-label
 msgid "Accentuate Text: %1$S (%2$S)"
 msgstr "Athchóirigh an Téacs: %1$S (%2$S)"
@@ -62,7 +67,8 @@ msgstr "Seol an Téacs Roghnaithe Mar Aiseolas"
 msgid "F"
 msgstr "S"
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
+#. translate it.
 #: charlifter.about.menu.label
 msgid "About Accentuate.us"
 msgstr "Maidir le hAccentuate.us"
@@ -73,10 +79,7 @@ msgid ""
 "This add-on is an interface to the %1$S language service that allows you to "
 "type quickly and easily in more than 100 languages without extra keystrokes "
 "or a special keyboard."
-msgstr ""
-"Is éard atá sa bhreiseán seo ná comhéadan ar sheirbhís teanga %1$S a ligeann "
-"duit clóscríobh go sciobtha i níos mó ná 100 teanga, gan eochairbhuillí "
-"breise agus gan méarchlár speisialta."
+msgstr "Is éard atá sa bhreiseán seo ná comhéadan ar sheirbhís teanga %1$S a ligeann duit clóscríobh go sciobtha i níos mó ná 100 teanga, gan eochairbhuillí breise agus gan méarchlár speisialta."
 
 #: about-privacy
 msgid "Your privacy is our top priority!"
@@ -87,17 +90,20 @@ msgstr "Is í do phríobháideacht an chloch is mó ar ár bpaidrín!"
 msgid "Copyright (c) 2010 %1$S"
 msgstr "Copyright (c) 2010 %1$S"
 
-#. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the license text
+#. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the
+#. license text
 #: about-license
 msgid "Licensed under %1$S."
 msgstr "Ceadúnas: %1$S."
 
-#. TRANSLATORS: This text will be followed by a link to a web page for contributors
+#. TRANSLATORS: This text will be followed by a link to a web page for
+#. contributors
 #: about-contribute
 msgid "Be part of our community:"
 msgstr "Glac páirt inár gcomhphobal:"
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
+#. translate it.
 #: errors-title
 msgid "Accentuate.us: Error"
 msgstr "Accentuate.us: Earráid"
@@ -109,11 +115,10 @@ msgstr "Tharla earráid leis an mbreiseán. Bain triail eile as ar ball."
 #: errors-communication
 msgid ""
 "The add-on was unable to connect with the server.  Please try again later."
-msgstr ""
-"Ní raibh an breiseán in ann dul i dteagmháil leis an bhfreastalaí.  Bain "
-"triail eile as ar ball."
+msgstr "Ní raibh an breiseán in ann dul i dteagmháil leis an bhfreastalaí.  Bain triail eile as ar ball."
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
+#. translate it.
 #: feedback-confirm-title
 msgid "Accentuate.us: Feedback"
 msgstr "Accentuate.us: Aiseolas"
@@ -122,12 +127,10 @@ msgstr "Accentuate.us: Aiseolas"
 msgid ""
 "Wait! Did you make sure to correct the text before submitting it as "
 "feedback?  You will only see this message once."
-msgstr ""
-"Fan ort go fóill!  Ba chóir duit ceartúchán a dhéanamh ar an téacs sula "
-"seolfaidh tú é mar aiseolas.  An bhfuil an téacs seo ceartaithe?  Ní "
-"fheicfidh tú an teachtaireacht seo ach uair amháin."
+msgstr "Fan ort go fóill!  Ba chóir duit ceartúchán a dhéanamh ar an téacs sula seolfaidh tú é mar aiseolas.  An bhfuil an téacs seo ceartaithe?  Ní fheicfidh tú an teachtaireacht seo ach uair amháin."
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
+#. translate it.
 #: feedback-success-title
 msgid "Accentuate.us: Feedback Submitted"
 msgstr "Accentuate.us: Aiseolas Seolta"
@@ -137,10 +140,7 @@ msgid ""
 "Thank you for be being part of the Accentuate.us community.  Our program "
 "learns from all text you submit as feedback, and over time this will help "
 "improve performance for your language."
-msgstr ""
-"Go raibh maith agat as páirt a ghlacadh sa chomhphobal Accentuate.us.  "
-"Foghlaimíonn ár ríomhchlár ón téacs go léir a sheolann tú chugainn mar "
-"aiseolas, agus le himeacht ama tiocfaidh feabhas ar na torthaí i do theanga."
+msgstr "Go raibh maith agat as páirt a ghlacadh sa chomhphobal Accentuate.us.  Foghlaimíonn ár ríomhchlár ón téacs go léir a sheolann tú chugainn mar aiseolas, agus le himeacht ama tiocfaidh feabhas ar na torthaí i do theanga."
 
 #: feedback-success-hide
 msgid "Never display this message again."
@@ -149,22 +149,20 @@ msgstr "Ná taispeáin an teachtaireacht seo arís."
 #: feedback-fail
 msgid ""
 "Please resubmit the feedback once you have corrected the text. Thank you!"
-msgstr ""
-"Athsheol an t-aiseolas nuair a bheidh an téacs ceartaithe agat. Go raibh "
-"maith agat!"
+msgstr "Athsheol an t-aiseolas nuair a bheidh an téacs ceartaithe agat. Go raibh maith agat!"
 
 #. TRANSLATORS: This is given as an option in the list of languages, and if
-#. chosen, all special characters are removed from the text ("deaccentuation").
+#. chosen, all special characters are removed from the text
+#. ("deaccentuation").
 #. 'ASCII' would be more precise than 'Plain Text' but we are trying to keep
 #. things non-technical.
 msgid "Plain Text"
 msgstr "Gnáth-Théacs"
 
 msgid ""
-"Error: Your version of the language list is newer than the one on the server."
-msgstr ""
-"Earráid: Tá an leagan den liosta teangacha atá agat níos nuaí ná an leagan "
-"ar an bhfreastalaí."
+"Error: Your version of the language list is newer than the one on the "
+"server."
+msgstr "Earráid: Tá an leagan den liosta teangacha atá agat níos nuaí ná an leagan ar an bhfreastalaí."
 
 msgid "No text to lift"
 msgstr "Níl aon téacs le hathchóiriú"
@@ -200,9 +198,7 @@ msgid "or     %1$S --help (display this help)"
 msgstr "nó     %1$S --help (taispeáin an chabhair seo)"
 
 msgid "Long versions of the command-line switches are available also:"
-msgstr ""
-"Is féidir leaganacha fada de na roghanna ar líne na n-orduithe a úsáid "
-"freisin:"
+msgstr "Is féidir leaganacha fada de na roghanna ar líne na n-orduithe a úsáid freisin:"
 
 msgid "Didn't understand the response from the server"
 msgstr "Níor tuigeadh an freagra ón bhfreastalaí"
@@ -690,36 +686,16 @@ msgid "Zande"
 msgstr "Záindéis"
 
 #~ msgid "Northern Saami"
-#~ msgstr "Sáimis Thuaidh"
+#~ msgstr "Northern Saami"
 
 #~ msgid "The language of the feedback text was not was specified"
-#~ msgstr "Níor sonraíodh teanga an téacs aiseolais"
-
-#~ msgid "Usage: sf-client.pl -r [-s SERVER] -l XX [FILES-TO-RESTORE]"
-#~ msgstr ""
-#~ "Úsáid: sf-client.pl -r [-s FREASTALAÍ] -l XX [COMHAID-LE-hATHCHÓIRIÚ]"
-
-#~ msgid "or     sf-client.pl -r [-s SERVER] -l XX -i 'ASCII-TEXT'"
-#~ msgstr ""
-#~ "nó     sf-client.pl -r [-s FREASTALAÍ] -l XX -i 'TÉACS-LE-hATHCHÓIRIÚ'"
-
-#~ msgid "or     sf-client.pl -f [-s SERVER] -l XX [CORRECT-FILES]"
-#~ msgstr "nó     sf-client.pl -f [-s FREASTALAÍ] -l XX [COMHAID-CHEARTA]"
-
-#~ msgid "or     sf-client.pl --list (show all available languages)"
-#~ msgstr "nó     sf-client.pl --list (taispeáin na teangacha atá ar fáil)"
-
-#~ msgid "or     sf-client.pl --help (display this help)"
-#~ msgstr "nó     sf-client.pl --help (taispeáin an chabhair seo)"
-
-#~ msgid "Lift Text: %1$S (%2$S)"
-#~ msgstr "Athchóirigh an Téacs: %1$S (%2$S)"
-
-#~ msgid "Lift Text For..."
-#~ msgstr "Athchóirigh an Téacs le haghaidh..."
+#~ msgstr "The language of the feedback text was not was specified"
 
 #~ msgid "Lift Text"
-#~ msgstr "Athchóirigh an Téacs"
+#~ msgstr "Lift Text"
 
 #~ msgid "Lift Text for Language"
-#~ msgstr "Athchóirigh an Téacs le haghaidh Teanga"
+#~ msgstr "Lift Text for Language"
+
+#~ msgid "Language not available"
+#~ msgstr "Language not available"
