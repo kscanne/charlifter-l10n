@@ -1,31 +1,29 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Kevin P. Scannell
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"Project-Id-Version: charlifter-l10n\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/charlifter-l10n/issues\n"
 "POT-Creation-Date: 2010-08-14 12:05-0500\n"
-"PO-Revision-Date: 2010-10-04 09:13+0200\n"
-"Last-Translator: F Wolff <friedel@translate.org.za>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2013-04-29 09:33+0000\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: Afrikaans (http://www.transifex.com/projects/p/charlifter-l10n/language/af/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: af\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.1\n"
 
 #. TRANSLATORS: This is a program for adding diacritics to texts
-#. automatically, for many different languages.  For example, if 
+#. automatically, for many different languages.  For example, if
 #. you input  "Pot sa mananc sticla si ea nu ma raneste" (Romanian),
 #. it outputs "Pot să mănânc sticlă și ea nu mă rănește".  We call
 #. this process "accentuating" the original text (this isn't the real
 #. meaning of "accentuate" in English - it's a pun).  This string is
 #. the menu command for accentuating a given text in the default language.
 #. You might translate it as "Restore (the) Text" or "Correct (the) Text".
-#. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish (es)"
+#. %1$S is the language name, %2$S is its code, e.g. "Accentuate Text: Spanish
+#. (es)"
 #: lift-citem-label
 msgid "Accentuate Text: %1$S (%2$S)"
 msgstr "Herstel die teks: %1$S (%2$S)"
@@ -69,7 +67,8 @@ msgstr "Dien seleksie in as terugvoer"
 msgid "F"
 msgstr "t"
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
+#. translate it.
 #: charlifter.about.menu.label
 msgid "About Accentuate.us"
 msgstr "Aangaande Accentuate.us"
@@ -80,10 +79,7 @@ msgid ""
 "This add-on is an interface to the %1$S language service that allows you to "
 "type quickly and easily in more than 100 languages without extra keystrokes "
 "or a special keyboard."
-msgstr ""
-"Hierdie byvoeging is 'n koppelvlak tot die %1$S-diens vir tale wat dit "
-"moontlik maak om vinnig en maklik in meer as 100 tale te tik sonder onnodige "
-"getik of spesiale sleutelbord."
+msgstr "Hierdie byvoeging is 'n koppelvlak tot die %1$S-diens vir tale wat dit moontlik maak om vinnig en maklik in meer as 100 tale te tik sonder onnodige getik of spesiale sleutelbord."
 
 #: about-privacy
 msgid "Your privacy is our top priority!"
@@ -94,17 +90,20 @@ msgstr "U privaatheid is ons hoogste prioriteit."
 msgid "Copyright (c) 2010 %1$S"
 msgstr "Kopiereg (c) 2010 %1$S"
 
-#. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the license text
+#. TRANSLATORS: %1$S is filled with the license name (GPLv3) and a link to the
+#. license text
 #: about-license
 msgid "Licensed under %1$S."
 msgstr "Gelissensieer onder die %1$S."
 
-#. TRANSLATORS: This text will be followed by a link to a web page for contributors
+#. TRANSLATORS: This text will be followed by a link to a web page for
+#. contributors
 #: about-contribute
 msgid "Be part of our community:"
 msgstr "Wees deel van ons gemeenskap:"
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
+#. translate it.
 #: errors-title
 msgid "Accentuate.us: Error"
 msgstr "Accentuate.us: Fout"
@@ -116,10 +115,10 @@ msgstr "Daar is 'n probleem met u installasie.  Probeer gerus weer later."
 #: errors-communication
 msgid ""
 "The add-on was unable to connect with the server.  Please try again later."
-msgstr ""
-"Die byvoeging kon nie koppel aan die bediener nie.  Probeer gerus weer later."
+msgstr "Die byvoeging kon nie koppel aan die bediener nie.  Probeer gerus weer later."
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
+#. translate it.
 #: feedback-confirm-title
 msgid "Accentuate.us: Feedback"
 msgstr "Accentuate.us: Terugvoer"
@@ -128,11 +127,10 @@ msgstr "Accentuate.us: Terugvoer"
 msgid ""
 "Wait! Did you make sure to correct the text before submitting it as "
 "feedback?  You will only see this message once."
-msgstr ""
-"Net 'n oomblik! Is die teks vir korrektheid van die terugvoer gekontroleer "
-"voor indiening?  Hierdie boodskap sal net een keer wys."
+msgstr "Net 'n oomblik! Is die teks vir korrektheid van die terugvoer gekontroleer voor indiening?  Hierdie boodskap sal net een keer wys."
 
-#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to translate it.
+#. TRANSLATORS: "Accentuate.us" is the name of the program; no need to
+#. translate it.
 #: feedback-success-title
 msgid "Accentuate.us: Feedback Submitted"
 msgstr "Accentuate.us: Terugvoer ingedien"
@@ -142,10 +140,7 @@ msgid ""
 "Thank you for be being part of the Accentuate.us community.  Our program "
 "learns from all text you submit as feedback, and over time this will help "
 "improve performance for your language."
-msgstr ""
-"Dankie vir u deelname in die Accentuate.us-gemeenskap.  Ons program leer van "
-"al die terugvoerteks wat ingedien word.  Mettertyd help dit die diens om te "
-"verbeter in u taal."
+msgstr "Dankie vir u deelname in die Accentuate.us-gemeenskap.  Ons program leer van al die terugvoerteks wat ingedien word.  Mettertyd help dit die diens om te verbeter in u taal."
 
 #: feedback-success-hide
 msgid "Never display this message again."
@@ -154,18 +149,19 @@ msgstr "Moenie hierdie boodskap weer wys nie."
 #: feedback-fail
 msgid ""
 "Please resubmit the feedback once you have corrected the text. Thank you!"
-msgstr ""
-"Dien die terugvoer gerus weer in nadat die teks gekorrigeer is. Dankie!"
+msgstr "Dien die terugvoer gerus weer in nadat die teks gekorrigeer is. Dankie!"
 
 #. TRANSLATORS: This is given as an option in the list of languages, and if
-#. chosen, all special characters are removed from the text ("deaccentuation").
+#. chosen, all special characters are removed from the text
+#. ("deaccentuation").
 #. 'ASCII' would be more precise than 'Plain Text' but we are trying to keep
 #. things non-technical.
 msgid "Plain Text"
 msgstr ""
 
 msgid ""
-"Error: Your version of the language list is newer than the one on the server."
+"Error: Your version of the language list is newer than the one on the "
+"server."
 msgstr "Fout: U weergawe van die taallys is nuwer as die een op die bediener."
 
 msgid "No text to lift"
@@ -690,4 +686,16 @@ msgid "Zande"
 msgstr ""
 
 #~ msgid "Northern Saami"
-#~ msgstr "Noord-Sami"
+#~ msgstr "Northern Saami"
+
+#~ msgid "The language of the feedback text was not was specified"
+#~ msgstr "The language of the feedback text was not was specified"
+
+#~ msgid "Lift Text"
+#~ msgstr "Lift Text"
+
+#~ msgid "Lift Text for Language"
+#~ msgstr "Lift Text for Language"
+
+#~ msgid "Language not available"
+#~ msgstr "Language not available"
